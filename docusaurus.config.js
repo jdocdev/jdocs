@@ -23,7 +23,7 @@ const config = {
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
     organizationName: "jdocdev", // Usually your GitHub org/user name.
-    projectName: "jdocdev-blog", // Usually your repo name.
+    projectName: "jdocs", // Usually your repo name.
 
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
@@ -88,7 +88,7 @@ const config = {
                         position: "left",
                         label: "Aprende a programar",
                     },
-                    { to: "/blog", label: "Blog", position: "left" },
+                    // { to: "/blog", label: "Blog", position: "left" },
                     {
                         href: "https://github.com/jdocdev",
                         label: "GitHub",

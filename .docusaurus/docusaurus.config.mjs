@@ -10,7 +10,7 @@ export default {
   "url": "https://your-docusaurus-site.example.com",
   "baseUrl": "/",
   "organizationName": "jdocdev",
-  "projectName": "jdocdev-blog",
+  "projectName": "jdocs",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -63,11 +63,6 @@ export default {
           "sidebarId": "tutorialSidebar",
           "position": "left",
           "label": "Aprende a programar"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
         },
         {
           "href": "https://github.com/jdocdev",

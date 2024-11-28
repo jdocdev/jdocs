@@ -17,16 +17,19 @@ Esta guía te ayudará a configurar un entorno de desarrollo para Laravel utiliz
 2. **Iniciar el servicio de Docker:**
    ```bash
    sudo systemctl start docker
+   ```
 
 3. Validar el estado del servicio:
    ```bash
    sudo systemctl status docker
+   ```
 
 4. Añadir permisos al usuario (opcional):
 
     Si tienes problemas con permisos al usar Docker, añade tu usuario al grupo de Docker y reinicia el sistema:
     ```bash
     sudo usermod -aG docker $USER
+    ```
 
 ## 2. Crear una Aplicación Laravel con Docker
 
@@ -35,11 +38,13 @@ Esta guía te ayudará a configurar un entorno de desarrollo para Laravel utiliz
     Ejecuta el siguiente comando para crear una nueva aplicación Laravel:
     ```bash
     curl -s https://laravel.build/devstagram | bash
+    ```
 
 2. Iniciar el entorno con Sail:
     Desde la raíz del proyecto, levanta los servicios de Docker utilizando Sail:
     ```bash
     ./vendor/bin/sail up
+    ```
 
 ## 3. Migraciones de Base de Datos
 
@@ -50,26 +55,28 @@ Resulta que en versiones recientes es posible recibir un **error relacionado con
     En otra terminal, mientras la aplicación está en ejecución, ejecuta las migraciones:
     ```bash
     ./vendor/bin/sail artisan migrate
+    ```
 
 2. Revertir la última migración:
 
     Si necesitas deshacer la última migración:
     ```bash
     ./vendor/bin/sail artisan migrate:rollback
+    ```
 
 3. Revertir varias migraciones:
 
     Para revertir más de una migración hacia atrás, utiliza el parámetro --step(indica cuantos):
     ```bash
     ./vendor/bin/sail artisan migrate:rollback --step=1
+    ```
 
 4. Rehacer todas las migraciones:
 
     Para eliminar todas las migraciones y aplicarlas nuevamente:
     ```bash
     ./vendor/bin/sail artisan migrate:fresh
-
-## 4. Identificar Contenedores en Ejecución
+    ```
 
 
 
