@@ -1,48 +1,48 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/jdocs/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/jdocs/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "aprendiento-larevel/puesta-en-marcha",
-              "path": "/docs/aprendiento-larevel/puesta-en-marcha",
+              "path": "/jdocs/docs/aprendiento-larevel/puesta-en-marcha",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "fundamentos-de-programacion/introduccion/introduccion",
-              "path": "/docs/fundamentos-de-programacion/introduccion/introduccion",
+              "path": "/jdocs/docs/fundamentos-de-programacion/introduccion/introduccion",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "fundamentos-de-programacion/introduccion/programas-algoritmos",
-              "path": "/docs/fundamentos-de-programacion/introduccion/programas-algoritmos",
+              "path": "/jdocs/docs/fundamentos-de-programacion/introduccion/programas-algoritmos",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/jdocs/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/fundamentos-de-programación",
-              "path": "/docs/category/fundamentos-de-programación",
+              "path": "/jdocs/docs/category/fundamentos-de-programación",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/introducción",
-              "path": "/docs/category/introducción",
+              "path": "/jdocs/docs/category/introducción",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/aprendiendo-laravel",
-              "path": "/docs/category/aprendiendo-laravel",
+              "path": "/jdocs/docs/category/aprendiendo-laravel",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -50,7 +50,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
+                "path": "/jdocs/docs/intro",
                 "label": "intro"
               }
             }

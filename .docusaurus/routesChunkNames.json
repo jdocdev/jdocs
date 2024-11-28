@@ -1,5 +1,5 @@
 {
-  "/blog-b2f": {
+  "/jdocs/blog-cff": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
@@ -19,16 +19,16 @@
         "content": "925b3f96"
       }
     ],
-    "__props": "c15d9823"
+    "__props": "cdc3381e"
   },
-  "/blog/archive-182": {
+  "/jdocs/blog/archive-1d3": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "36994c47"
     },
-    "__props": "f81c1134"
+    "__props": "ab2dca8e"
   },
-  "/blog/authors-0b7": {
+  "/jdocs/blog/authors-5fc": {
     "__comp": "621db11d",
     "__context": {
       "data": {
@@ -37,9 +37,9 @@
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
-    "__props": "ef8b811a"
+    "__props": "39e5326f"
   },
-  "/blog/authors/all-sebastien-lorber-articles-4a1": {
+  "/jdocs/blog/authors/all-sebastien-lorber-articles-c2e": {
     "__comp": "33fc5bb8",
     "__context": {
       "data": {
@@ -59,9 +59,9 @@
       }
     ],
     "sidebar": "814f3328",
-    "__props": "c9c9bef8"
+    "__props": "924108e3"
   },
-  "/blog/authors/yangshun-a68": {
+  "/jdocs/blog/authors/yangshun-daf": {
     "__comp": "33fc5bb8",
     "__context": {
       "data": {
@@ -81,9 +81,9 @@
       }
     ],
     "sidebar": "814f3328",
-    "__props": "1dea6ca3"
+    "__props": "fe767ab1"
   },
-  "/blog/first-blog-post-89a": {
+  "/jdocs/blog/first-blog-post-a3f": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -94,7 +94,7 @@
     "sidebar": "814f3328",
     "content": "e273c56f"
   },
-  "/blog/long-blog-post-9ad": {
+  "/jdocs/blog/long-blog-post-2f5": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -105,7 +105,7 @@
     "sidebar": "814f3328",
     "content": "73664a40"
   },
-  "/blog/mdx-blog-post-e9f": {
+  "/jdocs/blog/mdx-blog-post-e7b": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -116,15 +116,15 @@
     "sidebar": "814f3328",
     "content": "59362658"
   },
-  "/blog/tags-287": {
+  "/jdocs/blog/tags-638": {
     "__comp": "01a85c17",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
-    "__props": "3a2db09e"
+    "__props": "92803410"
   },
-  "/blog/tags/docusaurus-704": {
+  "/jdocs/blog/tags/docusaurus-664": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -144,9 +144,9 @@
         "content": "925b3f96"
       }
     ],
-    "__props": "3217192f"
+    "__props": "abf0cf2f"
   },
-  "/blog/tags/facebook-858": {
+  "/jdocs/blog/tags/facebook-00f": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -157,9 +157,9 @@
         "content": "7661071f"
       }
     ],
-    "__props": "e5aefb32"
+    "__props": "5a783be7"
   },
-  "/blog/tags/hello-299": {
+  "/jdocs/blog/tags/hello-d29": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -173,9 +173,9 @@
         "content": "8717b14a"
       }
     ],
-    "__props": "f82cd581"
+    "__props": "ec60b1c9"
   },
-  "/blog/tags/hola-00d": {
+  "/jdocs/blog/tags/hola-e71": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -186,9 +186,9 @@
         "content": "925b3f96"
       }
     ],
-    "__props": "5e90a9b3"
+    "__props": "55e10632"
   },
-  "/blog/welcome-d2b": {
+  "/jdocs/blog/welcome-c8d": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -199,55 +199,55 @@
     "sidebar": "814f3328",
     "content": "d9f32620"
   },
-  "/markdown-page-3d7": {
+  "/jdocs/markdown-page-8a4": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "a7456010"
     },
     "content": "393be207"
   },
-  "/docs-00b": {
+  "/jdocs/docs-50d": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-05c": {
+  "/jdocs/docs-be5": {
     "__comp": "a7bd4aaa",
-    "__props": "0058b4c6"
+    "__props": "c3bd3f78"
   },
-  "/docs-b48": {
+  "/jdocs/docs-ac2": {
     "__comp": "a94703ab"
   },
-  "/docs/aprendiento-larevel/puesta-en-marcha-d3e": {
+  "/jdocs/docs/aprendiento-larevel/puesta-en-marcha-146": {
     "__comp": "17896441",
     "content": "20ba07fd"
   },
-  "/docs/category/aprendiendo-laravel-6b2": {
+  "/jdocs/docs/category/aprendiendo-laravel-b1a": {
     "__comp": "14eb3368",
-    "__props": "279777be"
+    "__props": "91a25a86"
   },
-  "/docs/category/fundamentos-de-programación-266": {
+  "/jdocs/docs/category/fundamentos-de-programación-fa8": {
     "__comp": "14eb3368",
-    "__props": "4310e823"
+    "__props": "75e7eef4"
   },
-  "/docs/category/introducción-34b": {
+  "/jdocs/docs/category/introducción-12a": {
     "__comp": "14eb3368",
-    "__props": "806e4f03"
+    "__props": "f5578f48"
   },
-  "/docs/fundamentos-de-programacion/introduccion/introduccion-644": {
+  "/jdocs/docs/fundamentos-de-programacion/introduccion/introduccion-cbc": {
     "__comp": "17896441",
     "content": "71d49a4d"
   },
-  "/docs/fundamentos-de-programacion/introduccion/programas-algoritmos-27a": {
+  "/jdocs/docs/fundamentos-de-programacion/introduccion/programas-algoritmos-feb": {
     "__comp": "17896441",
     "content": "894b2779"
   },
-  "/docs/intro-61d": {
+  "/jdocs/docs/intro-3fd": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/-2e1": {
+  "/jdocs/-123": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "a7456010"

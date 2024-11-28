@@ -3,131 +3,131 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', 'b2f'),
+    path: '/jdocs/blog',
+    component: ComponentCreator('/jdocs/blog', 'cff'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '182'),
+    path: '/jdocs/blog/archive',
+    component: ComponentCreator('/jdocs/blog/archive', '1d3'),
     exact: true
   },
   {
-    path: '/blog/authors',
-    component: ComponentCreator('/blog/authors', '0b7'),
+    path: '/jdocs/blog/authors',
+    component: ComponentCreator('/jdocs/blog/authors', '5fc'),
     exact: true
   },
   {
-    path: '/blog/authors/all-sebastien-lorber-articles',
-    component: ComponentCreator('/blog/authors/all-sebastien-lorber-articles', '4a1'),
+    path: '/jdocs/blog/authors/all-sebastien-lorber-articles',
+    component: ComponentCreator('/jdocs/blog/authors/all-sebastien-lorber-articles', 'c2e'),
     exact: true
   },
   {
-    path: '/blog/authors/yangshun',
-    component: ComponentCreator('/blog/authors/yangshun', 'a68'),
+    path: '/jdocs/blog/authors/yangshun',
+    component: ComponentCreator('/jdocs/blog/authors/yangshun', 'daf'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '89a'),
+    path: '/jdocs/blog/first-blog-post',
+    component: ComponentCreator('/jdocs/blog/first-blog-post', 'a3f'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '9ad'),
+    path: '/jdocs/blog/long-blog-post',
+    component: ComponentCreator('/jdocs/blog/long-blog-post', '2f5'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', 'e9f'),
+    path: '/jdocs/blog/mdx-blog-post',
+    component: ComponentCreator('/jdocs/blog/mdx-blog-post', 'e7b'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '287'),
+    path: '/jdocs/blog/tags',
+    component: ComponentCreator('/jdocs/blog/tags', '638'),
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '704'),
+    path: '/jdocs/blog/tags/docusaurus',
+    component: ComponentCreator('/jdocs/blog/tags/docusaurus', '664'),
     exact: true
   },
   {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', '858'),
+    path: '/jdocs/blog/tags/facebook',
+    component: ComponentCreator('/jdocs/blog/tags/facebook', '00f'),
     exact: true
   },
   {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '299'),
+    path: '/jdocs/blog/tags/hello',
+    component: ComponentCreator('/jdocs/blog/tags/hello', 'd29'),
     exact: true
   },
   {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '00d'),
+    path: '/jdocs/blog/tags/hola',
+    component: ComponentCreator('/jdocs/blog/tags/hola', 'e71'),
     exact: true
   },
   {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'd2b'),
+    path: '/jdocs/blog/welcome',
+    component: ComponentCreator('/jdocs/blog/welcome', 'c8d'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '3d7'),
+    path: '/jdocs/markdown-page',
+    component: ComponentCreator('/jdocs/markdown-page', '8a4'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', '00b'),
+    path: '/jdocs/docs',
+    component: ComponentCreator('/jdocs/docs', '50d'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', '05c'),
+        path: '/jdocs/docs',
+        component: ComponentCreator('/jdocs/docs', 'be5'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', 'b48'),
+            path: '/jdocs/docs',
+            component: ComponentCreator('/jdocs/docs', 'ac2'),
             routes: [
               {
-                path: '/docs/aprendiento-larevel/puesta-en-marcha',
-                component: ComponentCreator('/docs/aprendiento-larevel/puesta-en-marcha', 'd3e'),
+                path: '/jdocs/docs/aprendiento-larevel/puesta-en-marcha',
+                component: ComponentCreator('/jdocs/docs/aprendiento-larevel/puesta-en-marcha', '146'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/aprendiendo-laravel',
-                component: ComponentCreator('/docs/category/aprendiendo-laravel', '6b2'),
+                path: '/jdocs/docs/category/aprendiendo-laravel',
+                component: ComponentCreator('/jdocs/docs/category/aprendiendo-laravel', 'b1a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/fundamentos-de-programación',
-                component: ComponentCreator('/docs/category/fundamentos-de-programación', '266'),
+                path: '/jdocs/docs/category/fundamentos-de-programación',
+                component: ComponentCreator('/jdocs/docs/category/fundamentos-de-programación', 'fa8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/introducción',
-                component: ComponentCreator('/docs/category/introducción', '34b'),
+                path: '/jdocs/docs/category/introducción',
+                component: ComponentCreator('/jdocs/docs/category/introducción', '12a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/fundamentos-de-programacion/introduccion/introduccion',
-                component: ComponentCreator('/docs/fundamentos-de-programacion/introduccion/introduccion', '644'),
+                path: '/jdocs/docs/fundamentos-de-programacion/introduccion/introduccion',
+                component: ComponentCreator('/jdocs/docs/fundamentos-de-programacion/introduccion/introduccion', 'cbc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/fundamentos-de-programacion/introduccion/programas-algoritmos',
-                component: ComponentCreator('/docs/fundamentos-de-programacion/introduccion/programas-algoritmos', '27a'),
+                path: '/jdocs/docs/fundamentos-de-programacion/introduccion/programas-algoritmos',
+                component: ComponentCreator('/jdocs/docs/fundamentos-de-programacion/introduccion/programas-algoritmos', 'feb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', '61d'),
+                path: '/jdocs/docs/intro',
+                component: ComponentCreator('/jdocs/docs/intro', '3fd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -138,8 +138,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '2e1'),
+    path: '/jdocs/',
+    component: ComponentCreator('/jdocs/', '123'),
     exact: true
   },
   {

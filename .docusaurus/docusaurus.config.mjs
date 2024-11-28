@@ -8,7 +8,7 @@ export default {
   "tagline": "@JuanDavid_Dev",
   "favicon": "img/jdocdev_logo.png",
   "url": "https://your-docusaurus-site.example.com",
-  "baseUrl": "/",
+  "baseUrl": "/jdocs/",
   "organizationName": "jdocdev",
   "projectName": "jdocs",
   "onBrokenLinks": "throw",
