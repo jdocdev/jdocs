@@ -1,0 +1,63 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "aprendiento-larevel/puesta-en-marcha",
+              "path": "/docs/aprendiento-larevel/puesta-en-marcha",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "fundamentos-de-programacion/introduccion/introduccion",
+              "path": "/docs/fundamentos-de-programacion/introduccion/introduccion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "fundamentos-de-programacion/introduccion/programas-algoritmos",
+              "path": "/docs/fundamentos-de-programacion/introduccion/programas-algoritmos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/fundamentos-de-programación",
+              "path": "/docs/category/fundamentos-de-programación",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/introducción",
+              "path": "/docs/category/introducción",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/aprendiendo-laravel",
+              "path": "/docs/category/aprendiendo-laravel",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

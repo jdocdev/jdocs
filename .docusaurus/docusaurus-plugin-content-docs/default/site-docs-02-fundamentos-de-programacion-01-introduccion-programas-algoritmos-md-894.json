@@ -1,0 +1,27 @@
+{
+  "id": "fundamentos-de-programacion/introduccion/programas-algoritmos",
+  "title": "Programas y algoritmos",
+  "description": "En Construcción",
+  "source": "@site/docs/02-fundamentos-de-programacion/01-introduccion/programas-algoritmos.md",
+  "sourceDirName": "02-fundamentos-de-programacion/01-introduccion",
+  "slug": "/fundamentos-de-programacion/introduccion/programas-algoritmos",
+  "permalink": "/docs/fundamentos-de-programacion/introduccion/programas-algoritmos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-fundamentos-de-programacion/01-introduccion/programas-algoritmos.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introducción a la programación",
+    "permalink": "/docs/fundamentos-de-programacion/introduccion/introduccion"
+  },
+  "next": {
+    "title": "Aprendiendo laravel",
+    "permalink": "/docs/category/aprendiendo-laravel"
+  }
+}
