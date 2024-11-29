@@ -1,0 +1,27 @@
+{
+  "id": "aprendiento-larevel/POO/POO copy",
+  "title": "Programación orientada a objetos",
+  "description": "---",
+  "source": "@site/docs/03-aprendiento-larevel/02-POO/01-POO copy.md",
+  "sourceDirName": "03-aprendiento-larevel/02-POO",
+  "slug": "/aprendiento-larevel/POO/POO copy",
+  "permalink": "/jdocs/docs/aprendiento-larevel/POO/POO copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/03-aprendiento-larevel/02-POO/01-POO copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "POO",
+    "permalink": "/jdocs/docs/category/poo"
+  },
+  "next": {
+    "title": "Programación orientada a objetos",
+    "permalink": "/jdocs/docs/aprendiento-larevel/POO/POO"
+  }
+}

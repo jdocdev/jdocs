@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/jdocs/__docusaurus/debug',
+    component: ComponentCreator('/jdocs/__docusaurus/debug', 'cb4'),
+    exact: true
+  },
+  {
+    path: '/jdocs/__docusaurus/debug/config',
+    component: ComponentCreator('/jdocs/__docusaurus/debug/config', '323'),
+    exact: true
+  },
+  {
+    path: '/jdocs/__docusaurus/debug/content',
+    component: ComponentCreator('/jdocs/__docusaurus/debug/content', 'c9c'),
+    exact: true
+  },
+  {
+    path: '/jdocs/__docusaurus/debug/globalData',
+    component: ComponentCreator('/jdocs/__docusaurus/debug/globalData', 'f0c'),
+    exact: true
+  },
+  {
+    path: '/jdocs/__docusaurus/debug/metadata',
+    component: ComponentCreator('/jdocs/__docusaurus/debug/metadata', 'e8d'),
+    exact: true
+  },
+  {
+    path: '/jdocs/__docusaurus/debug/registry',
+    component: ComponentCreator('/jdocs/__docusaurus/debug/registry', '5ed'),
+    exact: true
+  },
+  {
+    path: '/jdocs/__docusaurus/debug/routes',
+    component: ComponentCreator('/jdocs/__docusaurus/debug/routes', '37b'),
+    exact: true
+  },
+  {
     path: '/jdocs/blog',
     component: ComponentCreator('/jdocs/blog', 'cff'),
     exact: true
@@ -79,19 +114,31 @@ export default [
   },
   {
     path: '/jdocs/docs',
-    component: ComponentCreator('/jdocs/docs', 'f0f'),
+    component: ComponentCreator('/jdocs/docs', 'd46'),
     routes: [
       {
         path: '/jdocs/docs',
-        component: ComponentCreator('/jdocs/docs', '037'),
+        component: ComponentCreator('/jdocs/docs', '9be'),
         routes: [
           {
             path: '/jdocs/docs',
-            component: ComponentCreator('/jdocs/docs', 'cc9'),
+            component: ComponentCreator('/jdocs/docs', 'f21'),
             routes: [
               {
+                path: '/jdocs/docs/aprendiento-larevel/POO/PHP-POO-Docker',
+                component: ComponentCreator('/jdocs/docs/aprendiento-larevel/POO/PHP-POO-Docker', '883'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/jdocs/docs/aprendiento-larevel/POO/POO-introduccion',
+                component: ComponentCreator('/jdocs/docs/aprendiento-larevel/POO/POO-introduccion', '9c4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/jdocs/docs/aprendiento-larevel/puesta-en-marcha',
-                component: ComponentCreator('/jdocs/docs/aprendiento-larevel/puesta-en-marcha', '146'),
+                component: ComponentCreator('/jdocs/docs/aprendiento-larevel/puesta-en-marcha', 'd92'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -108,26 +155,32 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/jdocs/docs/category/laravel',
-                component: ComponentCreator('/jdocs/docs/category/laravel', 'cd2'),
+                path: '/jdocs/docs/category/laravel-11',
+                component: ComponentCreator('/jdocs/docs/category/laravel-11', 'b01'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/jdocs/docs/fundamentos-de-programacion/introduccion/introduccion',
-                component: ComponentCreator('/jdocs/docs/fundamentos-de-programacion/introduccion/introduccion', 'cbc'),
+                path: '/jdocs/docs/category/poo',
+                component: ComponentCreator('/jdocs/docs/category/poo', 'f6e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/jdocs/docs/fundamentos-de-programacion/introduccion/',
+                component: ComponentCreator('/jdocs/docs/fundamentos-de-programacion/introduccion/', '229'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/jdocs/docs/fundamentos-de-programacion/introduccion/programas-algoritmos',
-                component: ComponentCreator('/jdocs/docs/fundamentos-de-programacion/introduccion/programas-algoritmos', 'feb'),
+                component: ComponentCreator('/jdocs/docs/fundamentos-de-programacion/introduccion/programas-algoritmos', '00e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/jdocs/docs/intro',
-                component: ComponentCreator('/jdocs/docs/intro', '3fd'),
+                path: '/jdocs/docs/introduccion',
+                component: ComponentCreator('/jdocs/docs/introduccion', 'a17'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

@@ -45,3 +45,11 @@ Explora, aprende y comparte el conocimiento. Este sitio es solo el comienzo de u
 
 ¿Listo para empezar? ¡Vamos a empezar!
 
+---
+
+**Documentado por:** [JuanDavid_Dev](https://www.youtube.com/@juandavid_dev)   
+**Rol:** Administrador  
+**Fecha:** 25/11/2024  
+**Última actualización:** 25/11/2024
+
+---

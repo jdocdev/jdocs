@@ -2,13 +2,13 @@
   "id": "fundamentos-de-programacion/introduccion/programas-algoritmos",
   "title": "Programas y algoritmos",
   "description": "En Construcción",
-  "source": "@site/docs/02-fundamentos-de-programacion/01-introduccion/programas-algoritmos.md",
+  "source": "@site/docs/02-fundamentos-de-programacion/01-introduccion/02-programas-algoritmos.md",
   "sourceDirName": "02-fundamentos-de-programacion/01-introduccion",
   "slug": "/fundamentos-de-programacion/introduccion/programas-algoritmos",
   "permalink": "/jdocs/docs/fundamentos-de-programacion/introduccion/programas-algoritmos",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-fundamentos-de-programacion/01-introduccion/programas-algoritmos.md",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/02-fundamentos-de-programacion/01-introduccion/02-programas-algoritmos.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -21,7 +21,7 @@
     "permalink": "/jdocs/docs/fundamentos-de-programacion/introduccion/"
   },
   "next": {
-    "title": "Laravel",
-    "permalink": "/jdocs/docs/category/laravel"
+    "title": "Laravel 11",
+    "permalink": "/jdocs/docs/category/laravel-11"
   }
 }
