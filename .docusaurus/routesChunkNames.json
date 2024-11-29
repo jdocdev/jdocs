@@ -206,26 +206,22 @@
     },
     "content": "393be207"
   },
-  "/jdocs/docs-50d": {
+  "/jdocs/docs-f0f": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/jdocs/docs-be5": {
+  "/jdocs/docs-037": {
     "__comp": "a7bd4aaa",
     "__props": "c3bd3f78"
   },
-  "/jdocs/docs-ac2": {
+  "/jdocs/docs-cc9": {
     "__comp": "a94703ab"
   },
   "/jdocs/docs/aprendiento-larevel/puesta-en-marcha-146": {
     "__comp": "17896441",
     "content": "20ba07fd"
-  },
-  "/jdocs/docs/category/aprendiendo-laravel-b1a": {
-    "__comp": "14eb3368",
-    "__props": "91a25a86"
   },
   "/jdocs/docs/category/fundamentos-de-programación-fa8": {
     "__comp": "14eb3368",
@@ -234,6 +230,10 @@
   "/jdocs/docs/category/introducción-12a": {
     "__comp": "14eb3368",
     "__props": "f5578f48"
+  },
+  "/jdocs/docs/category/laravel-cd2": {
+    "__comp": "14eb3368",
+    "__props": "888f5474"
   },
   "/jdocs/docs/fundamentos-de-programacion/introduccion/introduccion-cbc": {
     "__comp": "17896441",

@@ -41,8 +41,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/aprendiendo-laravel",
-              "path": "/jdocs/docs/category/aprendiendo-laravel",
+              "id": "/category/laravel",
+              "path": "/jdocs/docs/category/laravel",
               "sidebar": "tutorialSidebar"
             }
           ],

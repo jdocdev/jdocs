@@ -79,25 +79,19 @@ export default [
   },
   {
     path: '/jdocs/docs',
-    component: ComponentCreator('/jdocs/docs', '50d'),
+    component: ComponentCreator('/jdocs/docs', 'f0f'),
     routes: [
       {
         path: '/jdocs/docs',
-        component: ComponentCreator('/jdocs/docs', 'be5'),
+        component: ComponentCreator('/jdocs/docs', '037'),
         routes: [
           {
             path: '/jdocs/docs',
-            component: ComponentCreator('/jdocs/docs', 'ac2'),
+            component: ComponentCreator('/jdocs/docs', 'cc9'),
             routes: [
               {
                 path: '/jdocs/docs/aprendiento-larevel/puesta-en-marcha',
                 component: ComponentCreator('/jdocs/docs/aprendiento-larevel/puesta-en-marcha', '146'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/jdocs/docs/category/aprendiendo-laravel',
-                component: ComponentCreator('/jdocs/docs/category/aprendiendo-laravel', 'b1a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -110,6 +104,12 @@ export default [
               {
                 path: '/jdocs/docs/category/introducción',
                 component: ComponentCreator('/jdocs/docs/category/introducción', '12a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/jdocs/docs/category/laravel',
+                component: ComponentCreator('/jdocs/docs/category/laravel', 'cd2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
