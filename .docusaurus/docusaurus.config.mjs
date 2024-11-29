@@ -65,6 +65,11 @@ export default {
           "label": "Aprende a programar"
         },
         {
+          "to": "/blog",
+          "label": "Blog",
+          "position": "left"
+        },
+        {
           "href": "https://github.com/jdocdev",
           "label": "GitHub",
           "position": "right"
@@ -80,7 +85,7 @@ export default {
           "items": [
             {
               "label": "Aprende a programar",
-              "to": "/docs/intro"
+              "to": "/docs/introduccion"
             }
           ]
         },

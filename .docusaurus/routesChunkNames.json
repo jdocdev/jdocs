@@ -1,312 +1,269 @@
 {
-  "/jdocs/__docusaurus/debug-cb4": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---jdocs-docusaurus-debugb-38-25d"
-    }
-  },
-  "/jdocs/__docusaurus/debug/config-323": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---jdocs-docusaurus-debugb-38-25d"
-    }
-  },
-  "/jdocs/__docusaurus/debug/content-c9c": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---jdocs-docusaurus-debugb-38-25d"
-    },
-    "__props": "__props---jdocs-docusaurus-debug-content-06-a-36c"
-  },
-  "/jdocs/__docusaurus/debug/globalData-f0c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---jdocs-docusaurus-debugb-38-25d"
-    }
-  },
-  "/jdocs/__docusaurus/debug/metadata-e8d": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---jdocs-docusaurus-debugb-38-25d"
-    }
-  },
-  "/jdocs/__docusaurus/debug/registry-5ed": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---jdocs-docusaurus-debugb-38-25d"
-    }
-  },
-  "/jdocs/__docusaurus/debug/routes-37b": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---jdocs-docusaurus-debugb-38-25d"
-    }
-  },
   "/jdocs/blog-cff": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---jdocs-blog-369-ce2"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---jdocs-blog-814-983",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---jdocs-blog-766-219"
+        "content": "7661071f"
       },
       {
-        "content": "content---jdocs-blogf-4-f-bed"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---jdocs-blog-871-bcb"
+        "content": "8717b14a"
       },
       {
-        "content": "content---jdocs-blog-925-171"
+        "content": "925b3f96"
       }
     ],
-    "__props": "__props---jdocs-blogcdc-126"
+    "__props": "cdc3381e"
   },
   "/jdocs/blog/archive-1d3": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---jdocs-blog-369-ce2"
+      "plugin": "36994c47"
     },
-    "__props": "__props---jdocs-blog-archiveab-2-e56"
+    "__props": "ab2dca8e"
   },
   "/jdocs/blog/authors-5fc": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__comp": "621db11d",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---jdocs-blog-authorsace-b94"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---jdocs-blog-369-ce2"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---jdocs-blog-814-983",
-    "__props": "__props---jdocs-blog-authors-39-e-4ea"
+    "sidebar": "814f3328",
+    "__props": "39e5326f"
   },
   "/jdocs/blog/authors/all-sebastien-lorber-articles-c2e": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__comp": "33fc5bb8",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---jdocs-blog-authorsace-b94"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---jdocs-blog-369-ce2"
+      "plugin": "36994c47"
     },
     "items": [
       {
-        "content": "content---jdocs-blog-766-219"
+        "content": "7661071f"
       },
       {
-        "content": "content---jdocs-blogf-4-f-bed"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---jdocs-blog-925-171"
+        "content": "925b3f96"
       }
     ],
-    "sidebar": "sidebar---jdocs-blog-814-983",
-    "__props": "__props---jdocs-blog-authors-all-sebastien-lorber-articles-924-598"
+    "sidebar": "814f3328",
+    "__props": "924108e3"
   },
   "/jdocs/blog/authors/yangshun-daf": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__comp": "33fc5bb8",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---jdocs-blog-authorsace-b94"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---jdocs-blog-369-ce2"
+      "plugin": "36994c47"
     },
     "items": [
       {
-        "content": "content---jdocs-blog-766-219"
+        "content": "7661071f"
       },
       {
-        "content": "content---jdocs-blog-871-bcb"
+        "content": "8717b14a"
       },
       {
-        "content": "content---jdocs-blog-925-171"
+        "content": "925b3f96"
       }
     ],
-    "sidebar": "sidebar---jdocs-blog-814-983",
-    "__props": "__props---jdocs-blog-authors-yangshunfe-7-39c"
+    "sidebar": "814f3328",
+    "__props": "fe767ab1"
   },
   "/jdocs/blog/first-blog-post-a3f": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---jdocs-blog-authorsace-b94"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---jdocs-blog-369-ce2"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---jdocs-blog-814-983",
-    "content": "content---jdocs-blog-first-blog-poste-27-eb1"
+    "sidebar": "814f3328",
+    "content": "e273c56f"
   },
   "/jdocs/blog/long-blog-post-2f5": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---jdocs-blog-authorsace-b94"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---jdocs-blog-369-ce2"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---jdocs-blog-814-983",
-    "content": "content---jdocs-blog-long-blog-post-736-f67"
+    "sidebar": "814f3328",
+    "content": "73664a40"
   },
   "/jdocs/blog/mdx-blog-post-e7b": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---jdocs-blog-authorsace-b94"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---jdocs-blog-369-ce2"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---jdocs-blog-814-983",
-    "content": "content---jdocs-blog-mdx-blog-post-593-c00"
+    "sidebar": "814f3328",
+    "content": "59362658"
   },
   "/jdocs/blog/tags-638": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---jdocs-blog-369-ce2"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---jdocs-blog-814-983",
-    "__props": "__props---jdocs-blog-tags-928-d52"
+    "sidebar": "814f3328",
+    "__props": "92803410"
   },
   "/jdocs/blog/tags/docusaurus-664": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---jdocs-blog-369-ce2"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---jdocs-blog-814-983",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---jdocs-blog-766-219"
+        "content": "7661071f"
       },
       {
-        "content": "content---jdocs-blogf-4-f-bed"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---jdocs-blog-871-bcb"
+        "content": "8717b14a"
       },
       {
-        "content": "content---jdocs-blog-925-171"
+        "content": "925b3f96"
       }
     ],
-    "__props": "__props---jdocs-blog-tags-docusaurusabf-0b7"
+    "__props": "abf0cf2f"
   },
   "/jdocs/blog/tags/facebook-00f": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---jdocs-blog-369-ce2"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---jdocs-blog-814-983",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---jdocs-blog-766-219"
+        "content": "7661071f"
       }
     ],
-    "__props": "__props---jdocs-blog-tags-facebook-5-a-7-8d6"
+    "__props": "5a783be7"
   },
   "/jdocs/blog/tags/hello-d29": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---jdocs-blog-369-ce2"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---jdocs-blog-814-983",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---jdocs-blog-766-219"
+        "content": "7661071f"
       },
       {
-        "content": "content---jdocs-blog-871-bcb"
+        "content": "8717b14a"
       }
     ],
-    "__props": "__props---jdocs-blog-tags-helloec-6-32e"
+    "__props": "ec60b1c9"
   },
   "/jdocs/blog/tags/hola-e71": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---jdocs-blog-369-ce2"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---jdocs-blog-814-983",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---jdocs-blog-925-171"
+        "content": "925b3f96"
       }
     ],
-    "__props": "__props---jdocs-blog-tags-hola-55-e-7ab"
+    "__props": "55e10632"
   },
   "/jdocs/blog/welcome-c8d": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---jdocs-blog-authorsace-b94"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---jdocs-blog-369-ce2"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---jdocs-blog-814-983",
-    "content": "content---jdocs-blog-welcomed-9-f-e4d"
+    "sidebar": "814f3328",
+    "content": "d9f32620"
   },
   "/jdocs/markdown-page-8a4": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---jdocs-markdown-pagea-74-8f5"
+      "plugin": "a7456010"
     },
-    "content": "content---jdocs-markdown-page-393-fa3"
+    "content": "393be207"
   },
-  "/jdocs/docs-d46": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+  "/jdocs/docs-a43": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---jdocs-docsaba-261"
+      "plugin": "aba21aa0"
     }
   },
-  "/jdocs/docs-9be": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---jdocs-docsc-3-b-2ae"
+  "/jdocs/docs-5a0": {
+    "__comp": "a7bd4aaa",
+    "__props": "c3bd3f78"
   },
-  "/jdocs/docs-f21": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/jdocs/docs-e9a": {
+    "__comp": "a94703ab"
   },
   "/jdocs/docs/aprendiento-larevel/POO/PHP-POO-Docker-883": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---jdocs-docs-aprendiento-larevel-poo-php-poo-dockerd-95-87a"
+    "__comp": "17896441",
+    "content": "d9506870"
   },
   "/jdocs/docs/aprendiento-larevel/POO/POO-introduccion-9c4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---jdocs-docs-aprendiento-larevel-poo-poo-introduccion-352-748"
+    "__comp": "17896441",
+    "content": "35209edf"
   },
   "/jdocs/docs/aprendiento-larevel/puesta-en-marcha-d92": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---jdocs-docs-aprendiento-larevel-puesta-en-marcha-7-af-d25"
+    "__comp": "17896441",
+    "content": "7afe34f7"
   },
   "/jdocs/docs/category/fundamentos-de-programación-fa8": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---jdocs-docs-category-fundamentos-de-programacion-75-e-514"
+    "__comp": "14eb3368",
+    "__props": "75e7eef4"
   },
   "/jdocs/docs/category/introducción-12a": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---jdocs-docs-category-introduccionf-55-b6d"
+    "__comp": "14eb3368",
+    "__props": "f5578f48"
   },
   "/jdocs/docs/category/laravel-11-b01": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---jdocs-docs-category-laravel-11787-c6e"
+    "__comp": "14eb3368",
+    "__props": "78772502"
   },
   "/jdocs/docs/category/poo-f6e": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---jdocs-docs-category-poo-5-bf-1bd"
+    "__comp": "14eb3368",
+    "__props": "5bf0b424"
   },
   "/jdocs/docs/fundamentos-de-programacion/introduccion/-229": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---jdocs-docs-fundamentos-de-programacion-introduccion-a-03-c7c"
+    "__comp": "17896441",
+    "content": "a0376c07"
   },
   "/jdocs/docs/fundamentos-de-programacion/introduccion/programas-algoritmos-00e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---jdocs-docs-fundamentos-de-programacion-introduccion-programas-algoritmos-954-bd7"
+    "__comp": "17896441",
+    "content": "954885e9"
   },
-  "/jdocs/docs/introduccion-a17": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---jdocs-docs-introduccionf-9-d-c34"
+  "/jdocs/docs/introduccion-f59": {
+    "__comp": "17896441",
+    "content": "0541562c"
   },
   "/jdocs/-123": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---jdocs-markdown-pagea-74-8f5"
+      "plugin": "a7456010"
     },
-    "config": "config---jdocs-5-e-9-7ef"
+    "config": "5e9f5e1a"
   }
 }

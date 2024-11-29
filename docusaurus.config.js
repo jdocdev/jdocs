@@ -88,7 +88,7 @@ const config = {
                         position: "left",
                         label: "Aprende a programar",
                     },
-                    // { to: "/blog", label: "Blog", position: "left" },
+                    { to: "/blog", label: "Blog", position: "left" },
                     {
                         href: "https://github.com/jdocdev",
                         label: "GitHub",
@@ -104,7 +104,7 @@ const config = {
                         items: [
                             {
                                 label: "Aprende a programar",
-                                to: "/docs/intro",
+                                to: "/docs/introduccion",
                             },
                         ],
                     },

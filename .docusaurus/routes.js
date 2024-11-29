@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/jdocs/__docusaurus/debug',
-    component: ComponentCreator('/jdocs/__docusaurus/debug', 'cb4'),
-    exact: true
-  },
-  {
-    path: '/jdocs/__docusaurus/debug/config',
-    component: ComponentCreator('/jdocs/__docusaurus/debug/config', '323'),
-    exact: true
-  },
-  {
-    path: '/jdocs/__docusaurus/debug/content',
-    component: ComponentCreator('/jdocs/__docusaurus/debug/content', 'c9c'),
-    exact: true
-  },
-  {
-    path: '/jdocs/__docusaurus/debug/globalData',
-    component: ComponentCreator('/jdocs/__docusaurus/debug/globalData', 'f0c'),
-    exact: true
-  },
-  {
-    path: '/jdocs/__docusaurus/debug/metadata',
-    component: ComponentCreator('/jdocs/__docusaurus/debug/metadata', 'e8d'),
-    exact: true
-  },
-  {
-    path: '/jdocs/__docusaurus/debug/registry',
-    component: ComponentCreator('/jdocs/__docusaurus/debug/registry', '5ed'),
-    exact: true
-  },
-  {
-    path: '/jdocs/__docusaurus/debug/routes',
-    component: ComponentCreator('/jdocs/__docusaurus/debug/routes', '37b'),
-    exact: true
-  },
-  {
     path: '/jdocs/blog',
     component: ComponentCreator('/jdocs/blog', 'cff'),
     exact: true
@@ -114,15 +79,15 @@ export default [
   },
   {
     path: '/jdocs/docs',
-    component: ComponentCreator('/jdocs/docs', 'd46'),
+    component: ComponentCreator('/jdocs/docs', 'a43'),
     routes: [
       {
         path: '/jdocs/docs',
-        component: ComponentCreator('/jdocs/docs', '9be'),
+        component: ComponentCreator('/jdocs/docs', '5a0'),
         routes: [
           {
             path: '/jdocs/docs',
-            component: ComponentCreator('/jdocs/docs', 'f21'),
+            component: ComponentCreator('/jdocs/docs', 'e9a'),
             routes: [
               {
                 path: '/jdocs/docs/aprendiento-larevel/POO/PHP-POO-Docker',
@@ -180,7 +145,7 @@ export default [
               },
               {
                 path: '/jdocs/docs/introduccion',
-                component: ComponentCreator('/jdocs/docs/introduccion', 'a17'),
+                component: ComponentCreator('/jdocs/docs/introduccion', 'f59'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
