@@ -5,65 +5,34 @@
   "title": "First Blog Post",
   "description": "Lorem ipsum dolor sit amet...",
   "date": "2019-05-28T00:00:00.000Z",
-  "tags": [
-    {
-      "inline": false,
-      "label": "Hola",
-      "permalink": "/jdocs/blog/tags/hola",
-      "description": "Hola tag description"
-    },
-    {
-      "inline": false,
-      "label": "Docusaurus",
-      "permalink": "/jdocs/blog/tags/docusaurus",
-      "description": "Docusaurus tag description"
-    }
-  ],
+  "tags": [],
   "readingTime": 0.135,
   "hasTruncateMarker": true,
   "authors": [
     {
-      "name": "Sébastien Lorber",
-      "title": "Docusaurus maintainer",
-      "url": "https://sebastienlorber.com",
+      "name": "JuanDavid_Dev",
+      "title": "Administrador",
+      "url": "https://www.youtube.com/@juandavid_dev",
       "page": {
-        "permalink": "/jdocs/blog/authors/all-sebastien-lorber-articles"
+        "permalink": "/jdocs/blog/authors/juan-david-dev"
       },
       "socials": {
-        "x": "https://x.com/sebastienlorber",
-        "linkedin": "https://www.linkedin.com/in/sebastienlorber/",
-        "github": "https://github.com/slorber",
-        "newsletter": "https://thisweekinreact.com"
+        "x": "https://x.com/JuanDavid_Dev",
+        "github": "https://github.com/jdocdev",
+        "youtube": "https://youtube.com/@juandavid_dev"
       },
-      "imageURL": "https://github.com/slorber.png",
-      "key": "slorber"
-    },
-    {
-      "name": "Yangshun Tay",
-      "title": "Front End Engineer @ Facebook",
-      "url": "https://github.com/yangshun",
-      "page": {
-        "permalink": "/jdocs/blog/authors/yangshun"
-      },
-      "socials": {
-        "x": "https://x.com/yangshunz",
-        "github": "https://github.com/yangshun"
-      },
-      "imageURL": "https://github.com/yangshun.png",
-      "key": "yangshun"
+      "description": "Soy desarrollador y creador de contenido enfocado en programación y tecnología. Mi objetivo es enseñar y compartir conocimientos de manera sencilla y práctica.",
+      "imageURL": "https://github.com/jdocdev.png",
+      "key": "JuanDavid_Dev"
     }
   ],
   "frontMatter": {
     "slug": "first-blog-post",
     "title": "First Blog Post",
     "authors": [
-      "slorber",
-      "yangshun"
+      "JuanDavid_Dev"
     ],
-    "tags": [
-      "hola",
-      "docusaurus"
-    ]
+    "tags": []
   },
   "unlisted": false,
   "prevItem": {

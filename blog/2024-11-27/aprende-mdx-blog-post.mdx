@@ -1,0 +1,121 @@
+---
+slug: aprende-mdx-blog-post
+title: Aprende a Usar MDX en Tu Blog de Docusaurus
+authors: [JuanDavid_Dev]
+tags: [mdx, tutorial]
+---
+
+---
+
+¿Sabías que puedes combinar la simplicidad de Markdown con la interactividad de React? MDX es una extensión poderosa que te permite escribir contenido rico e interactivo directamente en tu blog de Docusaurus.
+
+En este post, aprenderás los conceptos básicos para usar MDX y cómo sacarle el máximo provecho en tus publicaciones.
+
+{/* truncate */}
+
+## ¿Qué es MDX?
+
+[MDX](https://mdxjs.com/) es una combinación de Markdown y JSX. Te permite utilizar componentes de React directamente en tus archivos Markdown, lo que es ideal para crear contenido interactivo en blogs, documentación y sitios web.
+
+Con MDX, puedes agregar botones, gráficos dinámicos, formularios, e incluso tus propios componentes personalizados.
+
+---
+
+## ¿Cómo empezar?
+
+Docusaurus ya soporta MDX de forma predeterminada, por lo que no necesitas configuraciones adicionales. Simplemente crea un archivo Markdown y empieza a escribir usando JSX donde lo necesites.
+
+Ejemplo básico: 
+
+Un botón interactivo que muestra una alerta al hacer clic:
+
+  ```jsx
+  <button onClick={() => alert('¡Haz hecho clic en el botón!')}>
+    ¡Haz clic aquí!
+  </button>
+  ```
+
+Renderizado en tu blog se verá así:
+
+  <button onClick={() => alert('¡Haz hecho clic en el botón!')}> ¡Haz clic aquí! </button>
+
+## Añadiendo estilos a componentes interactivos
+
+Puedes agregar clases de CSS para personalizar tus componentes. Crea un archivo CSS por ejemplo customButton.module.css en la carpeta de tú post con el siguiente contenido:
+
+  ```css
+  .botonPersonalizado {
+      background-color: #000;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      padding: 25px 30px 5px 30px;
+      font-size: 1.5rem;
+      cursor: pointer;
+      transition: background-color 0.3s ease-in-out;
+  }
+
+  .botonPersonalizado:hover {
+      background-color: #306fd0;
+  }
+  ```
+
+Luego, puedes importarlo y usarlo en tu archivo MDX:
+
+  ```jsx
+  import styles from './customButton.module.css';
+
+  <button className={styles.botonPersonalizado} onClick={() => alert('¡Hola desde un botón estilizado!')}>
+    ¡Botón estilizado!
+  </button>
+  ```
+
+Renderizado se verá así:
+
+import styles from './customButton.module.css';
+
+<button
+  className={styles.botonPersonalizado}
+  onClick={() => alert('¡Hola desde un botón estilizado!')}
+>
+  ¡Botón estilizado!
+</button>
+
+## Usando tus propios componentes
+
+También puedes importar componentes de React para reutilizarlos en diferentes publicaciones. Por ejemplo, crea un componente llamado Card.jsx en la carpeta de tú post con este contenido:
+
+  ```jsx 
+  import React from 'react';
+
+  export default function Card({ title, description }) {
+    return (
+      <div style={{ border: '1px solid #ddd', padding: '20px', borderRadius: '5px' }}>
+        <h3>{title}</h3>
+        <p>{description}</p>
+      </div>
+    );
+  }
+  ```
+
+En tu archivo MDX puedes usarlo así:
+
+  ```jsx
+  import Card from './Card';
+  
+  <Card title="MDX" description="Combina Markdown y React para contenido interactivo." />
+  ```
+
+Renderizado se verá así en tu post:
+
+import Card from './Card';
+
+<Card title="MDX" description="Combina Markdown y React para contenido interactivo." />
+
+---
+
+MDX transforma la forma en que creas contenido para tu blog al permitirte integrar la interactividad de React con la simplicidad de Markdown. Aprovecha esta herramienta para crear experiencias únicas y atractivas
+
+¿Quieres aprender más? Consulta la [documentación oficial de MDX](https://mdxjs.com/).
+
+---

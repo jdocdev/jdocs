@@ -1,19 +1,39 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+blog:
+  label: Blog
+  permalink: /blog
+  description: Aquí encontraras post relacionados con el blog.
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+repost:
+  label: Repost
+  permalink: /repost
+  description: Esta etiqueta agrupa artículos que son reposts de mi antiguo blog.
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+tutorial:
+  label: Tutorial
+  permalink: /tutorial
+  description: Esta etiqueta agrupa artículos que son recursos tutoriales.  
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+youtube:
+  label: YouTube
+  permalink: /youtube
+  description: Esta etiqueta agrupa contenido que son recursos en YouTube.  
+
+mdx:
+  label: MDX
+  permalink: /mdx
+  description: Esta etiqueta agrupa artículos que están relacionados con la tecnología MDX.
+
+html:
+  label: HTML
+  permalink: /html
+  description: Esta etiqueta agrupa artículos que están relacionados con la tecnología HTML.
+
+css:
+  label: CSS
+  permalink: /css
+  description: Esta etiqueta agrupa artículos que están relacionados con la tecnología CSS.
+
+javascript:
+  label: JavaScript
+  permalink: /javascript
+  description: Esta etiqueta agrupa artículos que están relacionados con la tecnología JavaScript.

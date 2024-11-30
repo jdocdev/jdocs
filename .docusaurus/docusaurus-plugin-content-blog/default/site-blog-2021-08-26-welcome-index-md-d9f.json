@@ -1,75 +1,51 @@
 {
-  "permalink": "/jdocs/blog/welcome",
+  "permalink": "/jdocs/blog/Bienvenidos",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
   "source": "@site/blog/2021-08-26-welcome/index.md",
-  "title": "Welcome",
-  "description": "Docusaurus blogging features are powered by the blog plugin.",
+  "title": "Bienvenidos",
+  "description": "¡Hola! 👋 Bienvenidos a mi blog personal, un espacio diseñado para compartir conocimiento, experiencias y recursos sobre el emocionante mundo del desarrollo de software y mucho más.",
   "date": "2021-08-26T00:00:00.000Z",
   "tags": [
     {
-      "inline": false,
-      "label": "Facebook",
-      "permalink": "/jdocs/blog/tags/facebook",
-      "description": "Facebook tag description"
+      "inline": true,
+      "label": "introducción",
+      "permalink": "/jdocs/blog/tags/introduccion"
     },
     {
-      "inline": false,
-      "label": "Hello",
-      "permalink": "/jdocs/blog/tags/hello",
-      "description": "Hello tag description"
-    },
-    {
-      "inline": false,
-      "label": "Docusaurus",
-      "permalink": "/jdocs/blog/tags/docusaurus",
-      "description": "Docusaurus tag description"
+      "inline": true,
+      "label": "blog",
+      "permalink": "/jdocs/blog/tags/blog"
     }
   ],
-  "readingTime": 0.465,
+  "readingTime": 0.985,
   "hasTruncateMarker": true,
   "authors": [
     {
-      "name": "Sébastien Lorber",
-      "title": "Docusaurus maintainer",
-      "url": "https://sebastienlorber.com",
+      "name": "JuanDavid_Dev",
+      "title": "Administrador",
+      "url": "https://www.youtube.com/@juandavid_dev",
       "page": {
-        "permalink": "/jdocs/blog/authors/all-sebastien-lorber-articles"
+        "permalink": "/jdocs/blog/authors/juan-david-dev"
       },
       "socials": {
-        "x": "https://x.com/sebastienlorber",
-        "linkedin": "https://www.linkedin.com/in/sebastienlorber/",
-        "github": "https://github.com/slorber",
-        "newsletter": "https://thisweekinreact.com"
+        "x": "https://x.com/JuanDavid_Dev",
+        "github": "https://github.com/jdocdev",
+        "youtube": "https://youtube.com/@juandavid_dev"
       },
-      "imageURL": "https://github.com/slorber.png",
-      "key": "slorber"
-    },
-    {
-      "name": "Yangshun Tay",
-      "title": "Front End Engineer @ Facebook",
-      "url": "https://github.com/yangshun",
-      "page": {
-        "permalink": "/jdocs/blog/authors/yangshun"
-      },
-      "socials": {
-        "x": "https://x.com/yangshunz",
-        "github": "https://github.com/yangshun"
-      },
-      "imageURL": "https://github.com/yangshun.png",
-      "key": "yangshun"
+      "description": "Soy desarrollador y creador de contenido enfocado en programación y tecnología. Mi objetivo es enseñar y compartir conocimientos de manera sencilla y práctica.",
+      "imageURL": "https://github.com/jdocdev.png",
+      "key": "JuanDavid_Dev"
     }
   ],
   "frontMatter": {
-    "slug": "welcome",
-    "title": "Welcome",
+    "slug": "Bienvenidos",
+    "title": "Bienvenidos",
     "authors": [
-      "slorber",
-      "yangshun"
+      "JuanDavid_Dev"
     ],
     "tags": [
-      "facebook",
-      "hello",
-      "docusaurus"
+      "introducción",
+      "blog"
     ]
   },
   "unlisted": false,

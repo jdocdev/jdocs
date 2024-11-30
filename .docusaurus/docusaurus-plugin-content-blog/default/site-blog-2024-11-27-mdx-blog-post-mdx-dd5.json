@@ -1,0 +1,62 @@
+{
+  "permalink": "/jdocs/blog/mdx-blog-post",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2024-11-27/mdx-blog-post.mdx",
+  "source": "@site/blog/2024-11-27/mdx-blog-post.mdx",
+  "title": "Aprende a Usar MDX en Tu Blog de Docusaurus",
+  "description": "---",
+  "date": "2024-11-27T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "MDX",
+      "permalink": "/jdocs/blog/tags/mdx",
+      "description": "Esta etiqueta agrupa artículos que están relacionados con la tecnología MDX."
+    },
+    {
+      "inline": false,
+      "label": "Tutorial",
+      "permalink": "/jdocs/blog/tags/tutorial",
+      "description": "Esta etiqueta agrupa artículos que son recursos tutoriales."
+    }
+  ],
+  "readingTime": 2.235,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "JuanDavid_Dev",
+      "title": "Administrador",
+      "url": "https://www.youtube.com/@juandavid_dev",
+      "page": {
+        "permalink": "/jdocs/blog/authors/juan-david-dev"
+      },
+      "socials": {
+        "x": "https://x.com/JuanDavid_Dev",
+        "github": "https://github.com/jdocdev",
+        "youtube": "https://youtube.com/@juandavid_dev"
+      },
+      "description": "Soy desarrollador y creador de contenido enfocado en programación y tecnología. Mi objetivo es enseñar y compartir conocimientos de manera sencilla y práctica.",
+      "imageURL": "https://github.com/jdocdev.png",
+      "key": "JuanDavid_Dev"
+    }
+  ],
+  "frontMatter": {
+    "slug": "mdx-blog-post",
+    "title": "Aprende a Usar MDX en Tu Blog de Docusaurus",
+    "authors": [
+      "JuanDavid_Dev"
+    ],
+    "tags": [
+      "mdx",
+      "tutorial"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "First Blog Post",
+    "permalink": "/jdocs/blog/first-blog-post"
+  },
+  "nextItem": {
+    "title": "Bienvenidos",
+    "permalink": "/jdocs/blog/Bienvenidos"
+  }
+}

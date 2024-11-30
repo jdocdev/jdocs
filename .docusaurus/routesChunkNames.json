@@ -1,5 +1,5 @@
 {
-  "/jdocs/blog-cff": {
+  "/jdocs/blog-6ec": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
@@ -7,19 +7,36 @@
     "sidebar": "814f3328",
     "items": [
       {
-        "content": "7661071f"
+        "content": "f26d8dc4"
       },
       {
-        "content": "f4f34a3a"
+        "content": "d4c01b23"
       },
       {
-        "content": "8717b14a"
+        "content": "8d05ca69"
       },
       {
-        "content": "925b3f96"
+        "content": "56cfbf58"
+      },
+      {
+        "content": "a004cd7a"
+      },
+      {
+        "content": "c6e3924d"
       }
     ],
     "__props": "cdc3381e"
+  },
+  "/jdocs/blog/aprende-mdx-blog-post-23f": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "11b16a0c"
   },
   "/jdocs/blog/archive-1d3": {
     "__comp": "9e4087bc",
@@ -39,7 +56,7 @@
     "sidebar": "814f3328",
     "__props": "39e5326f"
   },
-  "/jdocs/blog/authors/all-sebastien-lorber-articles-c2e": {
+  "/jdocs/blog/authors/juan-david-dev-41e": {
     "__comp": "33fc5bb8",
     "__context": {
       "data": {
@@ -49,41 +66,28 @@
     },
     "items": [
       {
-        "content": "7661071f"
+        "content": "f26d8dc4"
       },
       {
-        "content": "f4f34a3a"
+        "content": "d4c01b23"
       },
       {
-        "content": "925b3f96"
+        "content": "8d05ca69"
+      },
+      {
+        "content": "56cfbf58"
+      },
+      {
+        "content": "a004cd7a"
+      },
+      {
+        "content": "c6e3924d"
       }
     ],
     "sidebar": "814f3328",
-    "__props": "924108e3"
+    "__props": "0697547b"
   },
-  "/jdocs/blog/authors/yangshun-daf": {
-    "__comp": "33fc5bb8",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "items": [
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "8717b14a"
-      },
-      {
-        "content": "925b3f96"
-      }
-    ],
-    "sidebar": "814f3328",
-    "__props": "fe767ab1"
-  },
-  "/jdocs/blog/first-blog-post-a3f": {
+  "/jdocs/blog/bienvenidos-1fd": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -92,9 +96,9 @@
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
-    "content": "e273c56f"
+    "content": "30dc8869"
   },
-  "/jdocs/blog/long-blog-post-2f5": {
+  "/jdocs/blog/curso-js-desde-cero-b06": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -103,9 +107,9 @@
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
-    "content": "73664a40"
+    "content": "ea3a3b38"
   },
-  "/jdocs/blog/mdx-blog-post-e7b": {
+  "/jdocs/blog/curso-manejo-dom-c6b": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -114,7 +118,18 @@
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
-    "content": "59362658"
+    "content": "01cf39bb"
+  },
+  "/jdocs/blog/mini-curso-html-css-flexbox-e73": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "b47fd21c"
   },
   "/jdocs/blog/tags-638": {
     "__comp": "01a85c17",
@@ -124,7 +139,7 @@
     "sidebar": "814f3328",
     "__props": "92803410"
   },
-  "/jdocs/blog/tags/docusaurus-664": {
+  "/jdocs/blog/tags/blog-eaf": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -132,21 +147,12 @@
     "sidebar": "814f3328",
     "items": [
       {
-        "content": "7661071f"
-      },
-      {
-        "content": "f4f34a3a"
-      },
-      {
-        "content": "8717b14a"
-      },
-      {
-        "content": "925b3f96"
+        "content": "c6e3924d"
       }
     ],
-    "__props": "abf0cf2f"
+    "__props": "65315ae4"
   },
-  "/jdocs/blog/tags/facebook-00f": {
+  "/jdocs/blog/tags/css-573": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -154,28 +160,15 @@
     "sidebar": "814f3328",
     "items": [
       {
-        "content": "7661071f"
-      }
-    ],
-    "__props": "5a783be7"
-  },
-  "/jdocs/blog/tags/hello-d29": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7661071f"
+        "content": "8d05ca69"
       },
       {
-        "content": "8717b14a"
+        "content": "56cfbf58"
       }
     ],
-    "__props": "ec60b1c9"
+    "__props": "b242a4b9"
   },
-  "/jdocs/blog/tags/hola-e71": {
+  "/jdocs/blog/tags/html-1ec": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -183,12 +176,116 @@
     "sidebar": "814f3328",
     "items": [
       {
-        "content": "925b3f96"
+        "content": "8d05ca69"
+      },
+      {
+        "content": "56cfbf58"
       }
     ],
-    "__props": "55e10632"
+    "__props": "0a59cd63"
   },
-  "/jdocs/blog/welcome-c8d": {
+  "/jdocs/blog/tags/javascript-fcf": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "f26d8dc4"
+      },
+      {
+        "content": "d4c01b23"
+      },
+      {
+        "content": "56cfbf58"
+      }
+    ],
+    "__props": "0386f0da"
+  },
+  "/jdocs/blog/tags/mdx-20f": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "a004cd7a"
+      }
+    ],
+    "__props": "5ae88992"
+  },
+  "/jdocs/blog/tags/repost-ca2": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "f26d8dc4"
+      },
+      {
+        "content": "d4c01b23"
+      },
+      {
+        "content": "8d05ca69"
+      },
+      {
+        "content": "56cfbf58"
+      }
+    ],
+    "__props": "cea31339"
+  },
+  "/jdocs/blog/tags/tutorial-4e6": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "f26d8dc4"
+      },
+      {
+        "content": "d4c01b23"
+      },
+      {
+        "content": "8d05ca69"
+      },
+      {
+        "content": "56cfbf58"
+      },
+      {
+        "content": "a004cd7a"
+      }
+    ],
+    "__props": "cb2b9770"
+  },
+  "/jdocs/blog/tags/youtube-ed8": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "f26d8dc4"
+      },
+      {
+        "content": "d4c01b23"
+      },
+      {
+        "content": "8d05ca69"
+      },
+      {
+        "content": "56cfbf58"
+      }
+    ],
+    "__props": "2920a660"
+  },
+  "/jdocs/blog/taller-html-css-js-piedra-papel-tijera-6fc": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -197,7 +294,7 @@
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
-    "content": "d9f32620"
+    "content": "9538a1cc"
   },
   "/jdocs/markdown-page-8a4": {
     "__comp": "1f391b9e",

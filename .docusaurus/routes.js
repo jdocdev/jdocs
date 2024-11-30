@@ -4,7 +4,12 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/jdocs/blog',
-    component: ComponentCreator('/jdocs/blog', 'cff'),
+    component: ComponentCreator('/jdocs/blog', '6ec'),
+    exact: true
+  },
+  {
+    path: '/jdocs/blog/aprende-mdx-blog-post',
+    component: ComponentCreator('/jdocs/blog/aprende-mdx-blog-post', '23f'),
     exact: true
   },
   {
@@ -18,28 +23,28 @@ export default [
     exact: true
   },
   {
-    path: '/jdocs/blog/authors/all-sebastien-lorber-articles',
-    component: ComponentCreator('/jdocs/blog/authors/all-sebastien-lorber-articles', 'c2e'),
+    path: '/jdocs/blog/authors/juan-david-dev',
+    component: ComponentCreator('/jdocs/blog/authors/juan-david-dev', '41e'),
     exact: true
   },
   {
-    path: '/jdocs/blog/authors/yangshun',
-    component: ComponentCreator('/jdocs/blog/authors/yangshun', 'daf'),
+    path: '/jdocs/blog/bienvenidos',
+    component: ComponentCreator('/jdocs/blog/bienvenidos', '1fd'),
     exact: true
   },
   {
-    path: '/jdocs/blog/first-blog-post',
-    component: ComponentCreator('/jdocs/blog/first-blog-post', 'a3f'),
+    path: '/jdocs/blog/curso-js-desde-cero',
+    component: ComponentCreator('/jdocs/blog/curso-js-desde-cero', 'b06'),
     exact: true
   },
   {
-    path: '/jdocs/blog/long-blog-post',
-    component: ComponentCreator('/jdocs/blog/long-blog-post', '2f5'),
+    path: '/jdocs/blog/curso-manejo-dom',
+    component: ComponentCreator('/jdocs/blog/curso-manejo-dom', 'c6b'),
     exact: true
   },
   {
-    path: '/jdocs/blog/mdx-blog-post',
-    component: ComponentCreator('/jdocs/blog/mdx-blog-post', 'e7b'),
+    path: '/jdocs/blog/mini-curso-html-css-flexbox',
+    component: ComponentCreator('/jdocs/blog/mini-curso-html-css-flexbox', 'e73'),
     exact: true
   },
   {
@@ -48,28 +53,48 @@ export default [
     exact: true
   },
   {
-    path: '/jdocs/blog/tags/docusaurus',
-    component: ComponentCreator('/jdocs/blog/tags/docusaurus', '664'),
+    path: '/jdocs/blog/tags/blog',
+    component: ComponentCreator('/jdocs/blog/tags/blog', 'eaf'),
     exact: true
   },
   {
-    path: '/jdocs/blog/tags/facebook',
-    component: ComponentCreator('/jdocs/blog/tags/facebook', '00f'),
+    path: '/jdocs/blog/tags/css',
+    component: ComponentCreator('/jdocs/blog/tags/css', '573'),
     exact: true
   },
   {
-    path: '/jdocs/blog/tags/hello',
-    component: ComponentCreator('/jdocs/blog/tags/hello', 'd29'),
+    path: '/jdocs/blog/tags/html',
+    component: ComponentCreator('/jdocs/blog/tags/html', '1ec'),
     exact: true
   },
   {
-    path: '/jdocs/blog/tags/hola',
-    component: ComponentCreator('/jdocs/blog/tags/hola', 'e71'),
+    path: '/jdocs/blog/tags/javascript',
+    component: ComponentCreator('/jdocs/blog/tags/javascript', 'fcf'),
     exact: true
   },
   {
-    path: '/jdocs/blog/welcome',
-    component: ComponentCreator('/jdocs/blog/welcome', 'c8d'),
+    path: '/jdocs/blog/tags/mdx',
+    component: ComponentCreator('/jdocs/blog/tags/mdx', '20f'),
+    exact: true
+  },
+  {
+    path: '/jdocs/blog/tags/repost',
+    component: ComponentCreator('/jdocs/blog/tags/repost', 'ca2'),
+    exact: true
+  },
+  {
+    path: '/jdocs/blog/tags/tutorial',
+    component: ComponentCreator('/jdocs/blog/tags/tutorial', '4e6'),
+    exact: true
+  },
+  {
+    path: '/jdocs/blog/tags/youtube',
+    component: ComponentCreator('/jdocs/blog/tags/youtube', 'ed8'),
+    exact: true
+  },
+  {
+    path: '/jdocs/blog/taller-html-css-js-piedra-papel-tijera',
+    component: ComponentCreator('/jdocs/blog/taller-html-css-js-piedra-papel-tijera', '6fc'),
     exact: true
   },
   {

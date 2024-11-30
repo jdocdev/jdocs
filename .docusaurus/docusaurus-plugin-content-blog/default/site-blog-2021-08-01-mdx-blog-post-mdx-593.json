@@ -1,55 +1,60 @@
 {
-  "permalink": "/jdocs/blog/mdx-blog-post",
+  "permalink": "/jdocs/blog/aprender-mdx",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
   "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
-  "title": "MDX Blog Post",
-  "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+  "title": "Aprende a Usar MDX en Tu Blog de Docusaurus",
+  "description": "¿Sabías que puedes combinar la simplicidad de Markdown con la interactividad de React? MDX es una extensión poderosa que te permite escribir contenido rico e interactivo directamente en tu blog de Docusaurus.",
   "date": "2021-08-01T00:00:00.000Z",
   "tags": [
     {
-      "inline": false,
-      "label": "Docusaurus",
-      "permalink": "/jdocs/blog/tags/docusaurus",
-      "description": "Docusaurus tag description"
+      "inline": true,
+      "label": "MDX",
+      "permalink": "/jdocs/blog/tags/mdx"
+    },
+    {
+      "inline": true,
+      "label": "tutorial",
+      "permalink": "/jdocs/blog/tags/tutorial"
     }
   ],
-  "readingTime": 0.235,
+  "readingTime": 0.855,
   "hasTruncateMarker": true,
   "authors": [
     {
-      "name": "Sébastien Lorber",
-      "title": "Docusaurus maintainer",
-      "url": "https://sebastienlorber.com",
+      "name": "JuanDavid_Dev",
+      "title": "Administrador",
+      "url": "https://www.youtube.com/@juandavid_dev",
       "page": {
-        "permalink": "/jdocs/blog/authors/all-sebastien-lorber-articles"
+        "permalink": "/jdocs/blog/authors/juan-david-dev"
       },
       "socials": {
-        "x": "https://x.com/sebastienlorber",
-        "linkedin": "https://www.linkedin.com/in/sebastienlorber/",
-        "github": "https://github.com/slorber",
-        "newsletter": "https://thisweekinreact.com"
+        "x": "https://x.com/JuanDavid_Dev",
+        "github": "https://github.com/jdocdev",
+        "youtube": "https://youtube.com/@juandavid_dev"
       },
-      "imageURL": "https://github.com/slorber.png",
-      "key": "slorber"
+      "description": "Soy desarrollador y creador de contenido enfocado en programación y tecnología. Mi objetivo es enseñar y compartir conocimientos de manera sencilla y práctica.",
+      "imageURL": "https://github.com/jdocdev.png",
+      "key": "JuanDavid_Dev"
     }
   ],
   "frontMatter": {
-    "slug": "mdx-blog-post",
-    "title": "MDX Blog Post",
+    "slug": "aprender-mdx",
+    "title": "Aprende a Usar MDX en Tu Blog de Docusaurus",
     "authors": [
-      "slorber"
+      "JuanDavid_Dev"
     ],
     "tags": [
-      "docusaurus"
+      "MDX",
+      "tutorial"
     ]
   },
   "unlisted": false,
   "prevItem": {
-    "title": "Welcome",
-    "permalink": "/jdocs/blog/welcome"
+    "title": "Bienvenidos",
+    "permalink": "/jdocs/blog/Bienvenidos"
   },
   "nextItem": {
-    "title": "Long Blog Post",
-    "permalink": "/jdocs/blog/long-blog-post"
+    "title": "First Blog Post",
+    "permalink": "/jdocs/blog/first-blog-post"
   }
 }
