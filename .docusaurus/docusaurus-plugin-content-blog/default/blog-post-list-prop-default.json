@@ -2,6 +2,12 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Aprende Desarrollo Web con React Desde Cero",
+      "permalink": "/jdocs/blog/curso-react-desde-cero",
+      "unlisted": false,
+      "date": "2024-12-01T00:00:00.000Z"
+    },
+    {
       "title": "Aprende JavaScript desde Cero",
       "permalink": "/jdocs/blog/curso-js-desde-cero",
       "unlisted": false,
@@ -24,12 +30,6 @@
       "permalink": "/jdocs/blog/taller-html-css-js-piedra-papel-tijera",
       "unlisted": false,
       "date": "2024-11-30T00:00:00.000Z"
-    },
-    {
-      "title": "Aprende a Usar MDX en Tu Blog de Docusaurus",
-      "permalink": "/jdocs/blog/aprende-mdx-blog-post",
-      "unlisted": false,
-      "date": "2024-11-27T00:00:00.000Z"
     }
   ]
 }

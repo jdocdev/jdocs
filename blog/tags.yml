@@ -37,3 +37,8 @@ javascript:
   label: JavaScript
   permalink: /javascript
   description: Esta etiqueta agrupa artículos que están relacionados con la tecnología JavaScript.
+
+react:
+  label: React
+  permalink: /react
+  description: Esta etiqueta agrupa artículos que están relacionados con la tecnología React.

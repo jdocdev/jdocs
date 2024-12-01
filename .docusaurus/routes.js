@@ -4,7 +4,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/jdocs/blog',
-    component: ComponentCreator('/jdocs/blog', '5f3'),
+    component: ComponentCreator('/jdocs/blog', '96e'),
     exact: true
   },
   {
@@ -24,7 +24,7 @@ export default [
   },
   {
     path: '/jdocs/blog/authors/juan-david-dev',
-    component: ComponentCreator('/jdocs/blog/authors/juan-david-dev', 'cbe'),
+    component: ComponentCreator('/jdocs/blog/authors/juan-david-dev', '575'),
     exact: true
   },
   {
@@ -35,6 +35,11 @@ export default [
   {
     path: '/jdocs/blog/curso-manejo-dom',
     component: ComponentCreator('/jdocs/blog/curso-manejo-dom', 'c6b'),
+    exact: true
+  },
+  {
+    path: '/jdocs/blog/curso-react-desde-cero',
+    component: ComponentCreator('/jdocs/blog/curso-react-desde-cero', '3d7'),
     exact: true
   },
   {
@@ -69,7 +74,7 @@ export default [
   },
   {
     path: '/jdocs/blog/tags/javascript',
-    component: ComponentCreator('/jdocs/blog/tags/javascript', 'fcf'),
+    component: ComponentCreator('/jdocs/blog/tags/javascript', '0e8'),
     exact: true
   },
   {
@@ -78,18 +83,23 @@ export default [
     exact: true
   },
   {
+    path: '/jdocs/blog/tags/react',
+    component: ComponentCreator('/jdocs/blog/tags/react', 'f43'),
+    exact: true
+  },
+  {
     path: '/jdocs/blog/tags/repost',
-    component: ComponentCreator('/jdocs/blog/tags/repost', 'ca2'),
+    component: ComponentCreator('/jdocs/blog/tags/repost', '57c'),
     exact: true
   },
   {
     path: '/jdocs/blog/tags/tutorial',
-    component: ComponentCreator('/jdocs/blog/tags/tutorial', '4e6'),
+    component: ComponentCreator('/jdocs/blog/tags/tutorial', '189'),
     exact: true
   },
   {
     path: '/jdocs/blog/tags/youtube',
-    component: ComponentCreator('/jdocs/blog/tags/youtube', 'ed8'),
+    component: ComponentCreator('/jdocs/blog/tags/youtube', '93c'),
     exact: true
   },
   {

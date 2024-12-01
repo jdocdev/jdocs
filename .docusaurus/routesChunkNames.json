@@ -1,11 +1,14 @@
 {
-  "/jdocs/blog-5f3": {
+  "/jdocs/blog-96e": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "ce382652"
+      },
       {
         "content": "f26d8dc4"
       },
@@ -56,7 +59,7 @@
     "sidebar": "814f3328",
     "__props": "39e5326f"
   },
-  "/jdocs/blog/authors/juan-david-dev-cbe": {
+  "/jdocs/blog/authors/juan-david-dev-575": {
     "__comp": "33fc5bb8",
     "__context": {
       "data": {
@@ -65,6 +68,9 @@
       "plugin": "36994c47"
     },
     "items": [
+      {
+        "content": "ce382652"
+      },
       {
         "content": "f26d8dc4"
       },
@@ -108,6 +114,17 @@
     },
     "sidebar": "814f3328",
     "content": "01cf39bb"
+  },
+  "/jdocs/blog/curso-react-desde-cero-3d7": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "0e3a0628"
   },
   "/jdocs/blog/hola-blog-post-315": {
     "__comp": "ccc49370",
@@ -184,13 +201,16 @@
     ],
     "__props": "0a59cd63"
   },
-  "/jdocs/blog/tags/javascript-fcf": {
+  "/jdocs/blog/tags/javascript-0e8": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "ce382652"
+      },
       {
         "content": "f26d8dc4"
       },
@@ -216,13 +236,29 @@
     ],
     "__props": "5ae88992"
   },
-  "/jdocs/blog/tags/repost-ca2": {
+  "/jdocs/blog/tags/react-f43": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "ce382652"
+      }
+    ],
+    "__props": "993cc869"
+  },
+  "/jdocs/blog/tags/repost-57c": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "ce382652"
+      },
       {
         "content": "f26d8dc4"
       },
@@ -238,13 +274,16 @@
     ],
     "__props": "cea31339"
   },
-  "/jdocs/blog/tags/tutorial-4e6": {
+  "/jdocs/blog/tags/tutorial-189": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "ce382652"
+      },
       {
         "content": "f26d8dc4"
       },
@@ -263,13 +302,16 @@
     ],
     "__props": "cb2b9770"
   },
-  "/jdocs/blog/tags/youtube-ed8": {
+  "/jdocs/blog/tags/youtube-93c": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "ce382652"
+      },
       {
         "content": "f26d8dc4"
       },

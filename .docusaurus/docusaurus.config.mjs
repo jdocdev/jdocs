@@ -11,12 +11,12 @@ export default {
       "data-name": "BMC-Widget",
       "data-cfasync": "false",
       "data-id": "juandavid",
-      "data-description": "Support me on Buy me a coffee!",
-      "data-message": "¡Aquí puedes invitarme a un Café!",
+      "data-description": "¡Apóyame invitándome a un café!",
+      "data-message": "¡Apóyame invitándome a un café!",
       "data-color": "#FFBC39",
       "data-position": "right",
-      "data-x_margin": "120",
-      "data-y_margin": "30"
+      "data-x_margin": "20",
+      "data-y_margin": "20"
     }
   ],
   "title": "¡En construcción!",

@@ -4,10 +4,35 @@
         <title>¡En construcción! Blog</title>
         <link>https://your-docusaurus-site.example.com/jdocs/blog</link>
         <description>¡En construcción! Blog</description>
-        <lastBuildDate>Sat, 30 Nov 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Dec 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
+        <item>
+            <title><![CDATA[Aprende Desarrollo Web con React Desde Cero]]></title>
+            <link>https://your-docusaurus-site.example.com/jdocs/blog/curso-react-desde-cero</link>
+            <guid>https://your-docusaurus-site.example.com/jdocs/blog/curso-react-desde-cero</guid>
+            <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[---]]></description>
+            <content:encoded><![CDATA[<hr>
+<p>¿Quieres aprender <strong>React JS</strong> y no sabes por dónde empezar? Este <strong><a href="https://www.youtube.com/playlist?list=PLSCzMZKEz1xSUqTOSbSPQY5dgmHLjHhXJ" target="_blank" rel="noopener noreferrer">curso de Desarrollo Web con React desde Cero</a></strong> es justo lo que necesitas. ¡Empieza desde lo básico y avanza hasta crear una landing page funcional! 🚀</p>
+<p><a href="https://www.youtube.com/playlist?list=PLSCzMZKEz1xSUqTOSbSPQY5dgmHLjHhXJ" target="_blank" rel="noopener noreferrer"><img decoding="async" loading="lazy" alt="Curso de React Desde Cero - Aprende con Vite" src="https://your-docusaurus-site.example.com/jdocs/assets/images/curso-react-desde-cero-afcc2bd32c6a8c63dd570145b48efc68.png" width="1500" height="500" class="img_ev3q"></a></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="qué-aprenderás-en-este-curso">¿Qué aprenderás en este curso?<a href="https://your-docusaurus-site.example.com/jdocs/blog/curso-react-desde-cero#qu%C3%A9-aprender%C3%A1s-en-este-curso" class="hash-link" aria-label="Enlace directo al ¿Qué aprenderás en este curso?" title="Enlace directo al ¿Qué aprenderás en este curso?">​</a></h2>
+<p>🔸 <strong>Configuración del entorno de desarrollo:</strong> Aprende a usar Vite para crear proyectos rápidos y eficientes.<br>
+<!-- -->🔸 <strong>Bases de React JS:</strong> Props, estados, hooks, renderizado condicional, eventos y más.<br>
+<!-- -->🔸 <strong>Proyecto práctico:</strong> Desarrolla una landing page completa utilizando React.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="por-qué-react-y-vite">¿Por qué React y Vite?<a href="https://your-docusaurus-site.example.com/jdocs/blog/curso-react-desde-cero#por-qu%C3%A9-react-y-vite" class="hash-link" aria-label="Enlace directo al ¿Por qué React y Vite?" title="Enlace directo al ¿Por qué React y Vite?">​</a></h2>
+<p>React JS es una de las bibliotecas más populares para construir interfaces de usuario interactivas, mientras que Vite es una herramienta moderna que acelera la configuración y el desarrollo de proyectos React. Juntos, son el dúo perfecto para empezar en el mundo del frontend.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cómo-acceder-al-curso">¿Cómo acceder al curso?<a href="https://your-docusaurus-site.example.com/jdocs/blog/curso-react-desde-cero#c%C3%B3mo-acceder-al-curso" class="hash-link" aria-label="Enlace directo al ¿Cómo acceder al curso?" title="Enlace directo al ¿Cómo acceder al curso?">​</a></h2>
+<p>El curso está disponible <strong>gratis</strong> en YouTube. Encuentra todos los videos en la <strong><a href="https://www.youtube.com/playlist?list=PLSCzMZKEz1xSUqTOSbSPQY5dgmHLjHhXJ" target="_blank" rel="noopener noreferrer">lista de reproducción</a></strong>.</p>
+<p>Si aún no conoces JavaScript, te recomiendo empezar con el <strong><a href="https://www.youtube.com/playlist?list=PLSCzMZKEz1xQWma_PktjXQBEC-fAmOa86" target="_blank" rel="noopener noreferrer">curso de JavaScript desde Cero</a></strong>.</p>
+<hr>]]></content:encoded>
+            <category>Repost</category>
+            <category>React</category>
+            <category>JavaScript</category>
+            <category>Tutorial</category>
+            <category>YouTube</category>
+        </item>
         <item>
             <title><![CDATA[Aprende JavaScript desde Cero]]></title>
             <link>https://your-docusaurus-site.example.com/jdocs/blog/curso-js-desde-cero</link>

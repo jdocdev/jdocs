@@ -65,6 +65,10 @@
     ]
   },
   "unlisted": false,
+  "prevItem": {
+    "title": "Aprende Desarrollo Web con React Desde Cero",
+    "permalink": "/jdocs/blog/curso-react-desde-cero"
+  },
   "nextItem": {
     "title": "Aprende a Manipular el DOM con JavaScript desde Cero",
     "permalink": "/jdocs/blog/curso-manejo-dom"
