@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjuandavid_dev=self.webpackChunkjuandavid_dev||[]).push([[8203],{189:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/jdocs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":6,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
