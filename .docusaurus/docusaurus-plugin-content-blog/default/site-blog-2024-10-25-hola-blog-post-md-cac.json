@@ -1,10 +1,10 @@
 {
-  "permalink": "/jdocs/blog/hola",
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2024-11-25/bienvenidos.md",
-  "source": "@site/blog/2024-11-25/bienvenidos.md",
+  "permalink": "/jdocs/blog/hola-blog-post",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2024-10-25/hola-blog-post.md",
+  "source": "@site/blog/2024-10-25/hola-blog-post.md",
   "title": "Bienvenidos",
   "description": "---",
-  "date": "2024-11-25T00:00:00.000Z",
+  "date": "2024-10-25T00:00:00.000Z",
   "tags": [
     {
       "inline": false,
@@ -34,7 +34,7 @@
     }
   ],
   "frontMatter": {
-    "slug": "hola",
+    "slug": "hola-blog-post",
     "title": "Bienvenidos",
     "authors": [
       "JuanDavid_Dev"
@@ -47,9 +47,5 @@
   "prevItem": {
     "title": "Aprende a Usar MDX en Tu Blog de Docusaurus",
     "permalink": "/jdocs/blog/aprende-mdx-blog-post"
-  },
-  "nextItem": {
-    "title": "Aprende JavaScript desde Cero",
-    "permalink": "/jdocs/blog/curso-js-desde-cero"
   }
 }

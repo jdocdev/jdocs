@@ -1,7 +1,7 @@
 {
   "id": "introduccion",
   "title": "Introducción",
-  "description": "En Construcción",
+  "description": "¡Descubre el emocionante mundo de la programación, paso a paso, desde los fundamentos hasta temas avanzados!",
   "source": "@site/docs/introduccion.md",
   "sourceDirName": ".",
   "slug": "/introduccion",

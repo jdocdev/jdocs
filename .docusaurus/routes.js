@@ -4,7 +4,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/jdocs/blog',
-    component: ComponentCreator('/jdocs/blog', '6ec'),
+    component: ComponentCreator('/jdocs/blog', '5f3'),
     exact: true
   },
   {
@@ -24,12 +24,7 @@ export default [
   },
   {
     path: '/jdocs/blog/authors/juan-david-dev',
-    component: ComponentCreator('/jdocs/blog/authors/juan-david-dev', '41e'),
-    exact: true
-  },
-  {
-    path: '/jdocs/blog/bienvenidos',
-    component: ComponentCreator('/jdocs/blog/bienvenidos', '1fd'),
+    component: ComponentCreator('/jdocs/blog/authors/juan-david-dev', 'cbe'),
     exact: true
   },
   {
@@ -40,6 +35,11 @@ export default [
   {
     path: '/jdocs/blog/curso-manejo-dom',
     component: ComponentCreator('/jdocs/blog/curso-manejo-dom', 'c6b'),
+    exact: true
+  },
+  {
+    path: '/jdocs/blog/hola-blog-post',
+    component: ComponentCreator('/jdocs/blog/hola-blog-post', '315'),
     exact: true
   },
   {
@@ -54,7 +54,7 @@ export default [
   },
   {
     path: '/jdocs/blog/tags/blog',
-    component: ComponentCreator('/jdocs/blog/tags/blog', 'eaf'),
+    component: ComponentCreator('/jdocs/blog/tags/blog', '195'),
     exact: true
   },
   {

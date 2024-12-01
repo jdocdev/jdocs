@@ -157,23 +157,23 @@
         </item>
         <item>
             <title><![CDATA[Bienvenidos]]></title>
-            <link>https://your-docusaurus-site.example.com/jdocs/blog/bienvenidos</link>
-            <guid>https://your-docusaurus-site.example.com/jdocs/blog/bienvenidos</guid>
+            <link>https://your-docusaurus-site.example.com/jdocs/blog/hola-blog-post</link>
+            <guid>https://your-docusaurus-site.example.com/jdocs/blog/hola-blog-post</guid>
             <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[---]]></description>
             <content:encoded><![CDATA[<hr>
 <p>¡Hola! 👋 Bienvenidos a mi blog personal, un espacio diseñado para compartir conocimiento, experiencias y recursos sobre el emocionante mundo del desarrollo de software y mucho más.</p>
 <p>Este blog está construido con <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>, una herramienta increíble que facilita la creación de sitios web modernos y personalizables. Aquí encontrarás contenido que va desde programación hasta consejos para crecer profesionalmente.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="qué-encontrarás-aquí">¿Qué encontrarás aquí?<a href="https://your-docusaurus-site.example.com/jdocs/blog/bienvenidos#qu%C3%A9-encontrar%C3%A1s-aqu%C3%AD" class="hash-link" aria-label="Enlace directo al ¿Qué encontrarás aquí?" title="Enlace directo al ¿Qué encontrarás aquí?">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="qué-encontrarás-aquí">¿Qué encontrarás aquí?<a href="https://your-docusaurus-site.example.com/jdocs/blog/hola-blog-post#qu%C3%A9-encontrar%C3%A1s-aqu%C3%AD" class="hash-link" aria-label="Enlace directo al ¿Qué encontrarás aquí?" title="Enlace directo al ¿Qué encontrarás aquí?">​</a></h3>
 <ul>
 <li><strong>Tutoriales prácticos</strong>: Guías paso a paso para aprender nuevas herramientas y tecnologías.</li>
 <li><strong>Reflexiones personales</strong>: Mis experiencias en este viaje del aprendizaje constante.</li>
 <li><strong>Recursos útiles</strong>: Materiales para mejorar tus habilidades en desarrollo y diseño.</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="por-qué-crear-este-espacio">¿Por qué crear este espacio?<a href="https://your-docusaurus-site.example.com/jdocs/blog/bienvenidos#por-qu%C3%A9-crear-este-espacio" class="hash-link" aria-label="Enlace directo al ¿Por qué crear este espacio?" title="Enlace directo al ¿Por qué crear este espacio?">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="por-qué-crear-este-espacio">¿Por qué crear este espacio?<a href="https://your-docusaurus-site.example.com/jdocs/blog/hola-blog-post#por-qu%C3%A9-crear-este-espacio" class="hash-link" aria-label="Enlace directo al ¿Por qué crear este espacio?" title="Enlace directo al ¿Por qué crear este espacio?">​</a></h3>
 <p>Mi objetivo es ayudarte a aprender y crecer mientras comparto mi experiencia personal. La idea es construir una comunidad donde podamos explorar juntos los retos y alegrías del desarrollo.</p>
 <p><img decoding="async" loading="lazy" alt="Inspiración del blog" src="https://your-docusaurus-site.example.com/jdocs/assets/images/banner-bienvenidos-25f697ee2f2a8c4ce14732065d629fbc.png" width="1185" height="471" class="img_ev3q"></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="cómo-empezar">¿Cómo empezar?<a href="https://your-docusaurus-site.example.com/jdocs/blog/bienvenidos#c%C3%B3mo-empezar" class="hash-link" aria-label="Enlace directo al ¿Cómo empezar?" title="Enlace directo al ¿Cómo empezar?">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="cómo-empezar">¿Cómo empezar?<a href="https://your-docusaurus-site.example.com/jdocs/blog/hola-blog-post#c%C3%B3mo-empezar" class="hash-link" aria-label="Enlace directo al ¿Cómo empezar?" title="Enlace directo al ¿Cómo empezar?">​</a></h3>
 <p>Navega por las categorías, explora los tutoriales y deja tus comentarios <strong><a href="https://www.youtube.com/@juandavid_dev/community" target="_blank" rel="noopener noreferrer">Aquí</a></strong> para compartir tus dudas o aprendizajes. Si eres nuevo por aquí, te invito a conocer más sobre mí en mi canal de <a href="https://www.youtube.com/@juandavid_dev" target="_blank" rel="noopener noreferrer">YouTube</a>.</p>
 <p>Gracias por estar aquí. ¡Espero que este blog sea tan útil para ti como lo es para mí crearlo! 🚀</p>
 <hr>]]></content:encoded>

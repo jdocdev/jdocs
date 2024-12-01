@@ -1,7 +1,7 @@
 {
   "id": "fundamentos-de-programacion/introduccion/introduccion",
   "title": "Introducción a la programación",
-  "description": "En Construcción",
+  "description": "Un ordenador, es capaz de realizar únicamente tres tipos de operaciones:",
   "source": "@site/docs/02-fundamentos-de-programacion/01-introduccion/01-introduccion.md",
   "sourceDirName": "02-fundamentos-de-programacion/01-introduccion",
   "slug": "/fundamentos-de-programacion/introduccion/",

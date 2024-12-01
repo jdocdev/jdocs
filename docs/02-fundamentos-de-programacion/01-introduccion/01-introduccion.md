@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # Introducción a la programación
 
-![En Construcción](@site/static/img/enConstruccion.png)
-
 Un ordenador, es capaz de realizar únicamente tres tipos de operaciones:
 
 - Operaciones aritméticas básicas

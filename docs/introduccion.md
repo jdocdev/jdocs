@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # Introducción 
 
-![En Construcción](@site/static/img/enConstruccion.png)
-
 ¡Descubre el emocionante mundo de la programación, paso a paso, desde los fundamentos hasta temas avanzados!
 
 ## ¿Qué encontrarás aquí?

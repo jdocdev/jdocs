@@ -1,5 +1,5 @@
 ---
-slug: bienvenidos
+slug: hola-blog-post
 title: Bienvenidos
 authors: [JuanDavid_Dev]
 tags: [blog]

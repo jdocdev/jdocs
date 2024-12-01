@@ -1,5 +1,5 @@
 {
-  "/jdocs/blog-6ec": {
+  "/jdocs/blog-5f3": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
@@ -22,7 +22,7 @@
         "content": "a004cd7a"
       },
       {
-        "content": "c6e3924d"
+        "content": "31367971"
       }
     ],
     "__props": "cdc3381e"
@@ -56,7 +56,7 @@
     "sidebar": "814f3328",
     "__props": "39e5326f"
   },
-  "/jdocs/blog/authors/juan-david-dev-41e": {
+  "/jdocs/blog/authors/juan-david-dev-cbe": {
     "__comp": "33fc5bb8",
     "__context": {
       "data": {
@@ -81,22 +81,11 @@
         "content": "a004cd7a"
       },
       {
-        "content": "c6e3924d"
+        "content": "31367971"
       }
     ],
     "sidebar": "814f3328",
     "__props": "0697547b"
-  },
-  "/jdocs/blog/bienvenidos-1fd": {
-    "__comp": "ccc49370",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "30dc8869"
   },
   "/jdocs/blog/curso-js-desde-cero-b06": {
     "__comp": "ccc49370",
@@ -120,6 +109,17 @@
     "sidebar": "814f3328",
     "content": "01cf39bb"
   },
+  "/jdocs/blog/hola-blog-post-315": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "f506dae9"
+  },
   "/jdocs/blog/mini-curso-html-css-flexbox-e73": {
     "__comp": "ccc49370",
     "__context": {
@@ -139,7 +139,7 @@
     "sidebar": "814f3328",
     "__props": "92803410"
   },
-  "/jdocs/blog/tags/blog-eaf": {
+  "/jdocs/blog/tags/blog-195": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -147,7 +147,7 @@
     "sidebar": "814f3328",
     "items": [
       {
-        "content": "c6e3924d"
+        "content": "31367971"
       }
     ],
     "__props": "65315ae4"
