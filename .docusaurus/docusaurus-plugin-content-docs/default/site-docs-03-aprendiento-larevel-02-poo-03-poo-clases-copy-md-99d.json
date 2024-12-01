@@ -1,0 +1,27 @@
+{
+  "id": "aprendiento-larevel/POO/POO-clases copy",
+  "title": "Clases en PHP: Definición y Reglas",
+  "description": "En esta guía aprenderás cómo definir clases en PHP, sus reglas principales y buenas prácticas asociadas.",
+  "source": "@site/docs/03-aprendiento-larevel/02-POO/03-POO-clases copy.md",
+  "sourceDirName": "03-aprendiento-larevel/02-POO",
+  "slug": "/aprendiento-larevel/POO/POO-clases copy",
+  "permalink": "/jdocs/docs/aprendiento-larevel/POO/POO-clases copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/03-aprendiento-larevel/02-POO/03-POO-clases copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introducción a la Programación Orientada a Objetos en PHP",
+    "permalink": "/jdocs/docs/aprendiento-larevel/POO/POO-introduccion"
+  },
+  "next": {
+    "title": "Clases en PHP: Definición y Reglas",
+    "permalink": "/jdocs/docs/aprendiento-larevel/POO/POO-clases"
+  }
+}

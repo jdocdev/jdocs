@@ -114,25 +114,49 @@ export default [
   },
   {
     path: '/jdocs/docs',
-    component: ComponentCreator('/jdocs/docs', 'a43'),
+    component: ComponentCreator('/jdocs/docs', '394'),
     routes: [
       {
         path: '/jdocs/docs',
-        component: ComponentCreator('/jdocs/docs', '5a0'),
+        component: ComponentCreator('/jdocs/docs', 'efd'),
         routes: [
           {
             path: '/jdocs/docs',
-            component: ComponentCreator('/jdocs/docs', 'e9a'),
+            component: ComponentCreator('/jdocs/docs', '409'),
             routes: [
               {
                 path: '/jdocs/docs/aprendiento-larevel/POO/PHP-POO-Docker',
-                component: ComponentCreator('/jdocs/docs/aprendiento-larevel/POO/PHP-POO-Docker', '883'),
+                component: ComponentCreator('/jdocs/docs/aprendiento-larevel/POO/PHP-POO-Docker', '979'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/jdocs/docs/aprendiento-larevel/POO/POO-abstraccion',
+                component: ComponentCreator('/jdocs/docs/aprendiento-larevel/POO/POO-abstraccion', 'b23'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/jdocs/docs/aprendiento-larevel/POO/POO-clases',
+                component: ComponentCreator('/jdocs/docs/aprendiento-larevel/POO/POO-clases', 'fff'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/jdocs/docs/aprendiento-larevel/POO/POO-constructores',
+                component: ComponentCreator('/jdocs/docs/aprendiento-larevel/POO/POO-constructores', '43e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/jdocs/docs/aprendiento-larevel/POO/POO-instancias-objetos',
+                component: ComponentCreator('/jdocs/docs/aprendiento-larevel/POO/POO-instancias-objetos', '4e0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/jdocs/docs/aprendiento-larevel/POO/POO-introduccion',
-                component: ComponentCreator('/jdocs/docs/aprendiento-larevel/POO/POO-introduccion', '9c4'),
+                component: ComponentCreator('/jdocs/docs/aprendiento-larevel/POO/POO-introduccion', '8d2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -161,8 +185,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/jdocs/docs/category/poo',
-                component: ComponentCreator('/jdocs/docs/category/poo', 'f6e'),
+                path: '/jdocs/docs/category/poo-php',
+                component: ComponentCreator('/jdocs/docs/category/poo-php', 'f3c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

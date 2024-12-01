@@ -345,26 +345,42 @@
     },
     "content": "393be207"
   },
-  "/jdocs/docs-a43": {
+  "/jdocs/docs-394": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/jdocs/docs-5a0": {
+  "/jdocs/docs-efd": {
     "__comp": "a7bd4aaa",
     "__props": "c3bd3f78"
   },
-  "/jdocs/docs-e9a": {
+  "/jdocs/docs-409": {
     "__comp": "a94703ab"
   },
-  "/jdocs/docs/aprendiento-larevel/POO/PHP-POO-Docker-883": {
+  "/jdocs/docs/aprendiento-larevel/POO/PHP-POO-Docker-979": {
     "__comp": "17896441",
-    "content": "d9506870"
+    "content": "5c5195d4"
   },
-  "/jdocs/docs/aprendiento-larevel/POO/POO-introduccion-9c4": {
+  "/jdocs/docs/aprendiento-larevel/POO/POO-abstraccion-b23": {
     "__comp": "17896441",
-    "content": "35209edf"
+    "content": "83bf58b3"
+  },
+  "/jdocs/docs/aprendiento-larevel/POO/POO-clases-fff": {
+    "__comp": "17896441",
+    "content": "68efbdba"
+  },
+  "/jdocs/docs/aprendiento-larevel/POO/POO-constructores-43e": {
+    "__comp": "17896441",
+    "content": "db97a84a"
+  },
+  "/jdocs/docs/aprendiento-larevel/POO/POO-instancias-objetos-4e0": {
+    "__comp": "17896441",
+    "content": "385a870f"
+  },
+  "/jdocs/docs/aprendiento-larevel/POO/POO-introduccion-8d2": {
+    "__comp": "17896441",
+    "content": "ed332867"
   },
   "/jdocs/docs/aprendiento-larevel/puesta-en-marcha-d92": {
     "__comp": "17896441",
@@ -382,9 +398,9 @@
     "__comp": "14eb3368",
     "__props": "78772502"
   },
-  "/jdocs/docs/category/poo-f6e": {
+  "/jdocs/docs/category/poo-php-f3c": {
     "__comp": "14eb3368",
-    "__props": "5bf0b424"
+    "__props": "fc18febd"
   },
   "/jdocs/docs/fundamentos-de-programacion/introduccion/-229": {
     "__comp": "17896441",

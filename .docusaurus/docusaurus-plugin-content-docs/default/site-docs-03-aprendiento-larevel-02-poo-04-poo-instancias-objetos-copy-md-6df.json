@@ -1,0 +1,27 @@
+{
+  "id": "aprendiento-larevel/POO/POO-instancias-objetos copy",
+  "title": "Instancias y Objetos en PHP",
+  "description": "En esta sección, aprenderás sobre cómo funcionan las instancias y los objetos en PHP, y cómo puedes trabajar con ellos en la programación orientada a objetos (POO).",
+  "source": "@site/docs/03-aprendiento-larevel/02-POO/04-POO-instancias-objetos copy.md",
+  "sourceDirName": "03-aprendiento-larevel/02-POO",
+  "slug": "/aprendiento-larevel/POO/POO-instancias-objetos copy",
+  "permalink": "/jdocs/docs/aprendiento-larevel/POO/POO-instancias-objetos copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/03-aprendiento-larevel/02-POO/04-POO-instancias-objetos copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Clases en PHP: Definición y Reglas",
+    "permalink": "/jdocs/docs/aprendiento-larevel/POO/POO-clases"
+  },
+  "next": {
+    "title": "Instancias y Objetos en PHP",
+    "permalink": "/jdocs/docs/aprendiento-larevel/POO/POO-instancias-objetos"
+  }
+}

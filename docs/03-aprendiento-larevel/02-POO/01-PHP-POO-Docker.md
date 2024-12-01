@@ -16,17 +16,24 @@ En la raíz de tu proyecto, crea un archivo llamado **docker-compose.yml** con e
 
     ```bash
     services:
-    php:
-        build: .
-        container_name: php-container
-        volumes:
-        - .:/app
-        working_dir: /app
-        stdin_open: true
-        tty: true
+        php:
+            container_name: php-container
+            build: .
+            ports:
+            - "5000:5000"
+            volumes:
+            - .:/app
+            command: php -S 0.0.0.0:5000 -t /app
+
     ```
 
-Puedes usar el nombre que quieras para tu contenedor en container_name, solo tenlo presente para el resto de la guía.
+        - command: Define que el contenedor debe ejecutar el servidor PHP en la ruta /app, escuchando en todas las interfaces (0.0.0.0) y en el puerto 5000.
+
+        - volumes: Mapea tu directorio local al contenedor para que el código esté disponible dentro del contenedor en /app.
+
+        - ports: Mapea el puerto del contenedor (5000) al puerto de tu máquina host.
+
+        - container_name: Puedes usar el nombre que quieras para tu contenedor, si usas uno diferente tenlo presente para el resto de la guía.
 
 ## 2. Crear el Dockerfile
 

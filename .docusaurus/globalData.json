@@ -16,6 +16,26 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "aprendiento-larevel/POO/POO-abstraccion",
+              "path": "/jdocs/docs/aprendiento-larevel/POO/POO-abstraccion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "aprendiento-larevel/POO/POO-clases",
+              "path": "/jdocs/docs/aprendiento-larevel/POO/POO-clases",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "aprendiento-larevel/POO/POO-constructores",
+              "path": "/jdocs/docs/aprendiento-larevel/POO/POO-constructores",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "aprendiento-larevel/POO/POO-instancias-objetos",
+              "path": "/jdocs/docs/aprendiento-larevel/POO/POO-instancias-objetos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "aprendiento-larevel/POO/POO-introduccion",
               "path": "/jdocs/docs/aprendiento-larevel/POO/POO-introduccion",
               "sidebar": "tutorialSidebar"
@@ -56,8 +76,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/poo",
-              "path": "/jdocs/docs/category/poo",
+              "id": "/category/poo-php",
+              "path": "/jdocs/docs/category/poo-php",
               "sidebar": "tutorialSidebar"
             }
           ],
