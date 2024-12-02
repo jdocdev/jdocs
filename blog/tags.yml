@@ -13,6 +13,11 @@ tutorial:
   permalink: /tutorial
   description: Esta etiqueta agrupa artículos que son recursos tutoriales.  
 
+linux:
+  label: Linux
+  permalink: /linux
+  description: Esta etiqueta agrupa artículos que son recursos o guías sobre linux.  
+
 youtube:
   label: YouTube
   permalink: /youtube

@@ -4,7 +4,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/jdocs/blog',
-    component: ComponentCreator('/jdocs/blog', '96e'),
+    component: ComponentCreator('/jdocs/blog', '7aa'),
     exact: true
   },
   {
@@ -18,13 +18,18 @@ export default [
     exact: true
   },
   {
+    path: '/jdocs/blog/aumentar-tamano-swap',
+    component: ComponentCreator('/jdocs/blog/aumentar-tamano-swap', '802'),
+    exact: true
+  },
+  {
     path: '/jdocs/blog/authors',
     component: ComponentCreator('/jdocs/blog/authors', '5fc'),
     exact: true
   },
   {
     path: '/jdocs/blog/authors/juan-david-dev',
-    component: ComponentCreator('/jdocs/blog/authors/juan-david-dev', '575'),
+    component: ComponentCreator('/jdocs/blog/authors/juan-david-dev', '6a8'),
     exact: true
   },
   {
@@ -78,6 +83,11 @@ export default [
     exact: true
   },
   {
+    path: '/jdocs/blog/tags/linux',
+    component: ComponentCreator('/jdocs/blog/tags/linux', '29b'),
+    exact: true
+  },
+  {
     path: '/jdocs/blog/tags/mdx',
     component: ComponentCreator('/jdocs/blog/tags/mdx', '20f'),
     exact: true
@@ -94,7 +104,7 @@ export default [
   },
   {
     path: '/jdocs/blog/tags/tutorial',
-    component: ComponentCreator('/jdocs/blog/tags/tutorial', '189'),
+    component: ComponentCreator('/jdocs/blog/tags/tutorial', '0ce'),
     exact: true
   },
   {

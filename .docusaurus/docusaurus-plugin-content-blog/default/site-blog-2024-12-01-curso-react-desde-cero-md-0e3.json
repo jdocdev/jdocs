@@ -72,6 +72,10 @@
     ]
   },
   "unlisted": false,
+  "prevItem": {
+    "title": "Aumenta el Tamaño del Archivo de Swap en Linux",
+    "permalink": "/jdocs/blog/aumentar-tamano-swap"
+  },
   "nextItem": {
     "title": "Aprende JavaScript desde Cero",
     "permalink": "/jdocs/blog/curso-js-desde-cero"

@@ -2,6 +2,12 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Aumenta el Tamaño del Archivo de Swap en Linux",
+      "permalink": "/jdocs/blog/aumentar-tamano-swap",
+      "unlisted": false,
+      "date": "2024-12-02T00:00:00.000Z"
+    },
+    {
       "title": "Aprende Desarrollo Web con React Desde Cero",
       "permalink": "/jdocs/blog/curso-react-desde-cero",
       "unlisted": false,
@@ -22,12 +28,6 @@
     {
       "title": "Crea un Sitio Web Sencillo con HTML, CSS y Flexbox",
       "permalink": "/jdocs/blog/mini-curso-html-css-flexbox",
-      "unlisted": false,
-      "date": "2024-11-30T00:00:00.000Z"
-    },
-    {
-      "title": "Crea el Juego de Piedra, Papel o Tijera con HTML, CSS y JavaScript",
-      "permalink": "/jdocs/blog/taller-html-css-js-piedra-papel-tijera",
       "unlisted": false,
       "date": "2024-11-30T00:00:00.000Z"
     }
