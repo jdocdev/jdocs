@@ -1,0 +1,23 @@
+{
+  "id": "aprendiento-larevel/POO/POO-metodos-PHP",
+  "title": "Métodos en PHP",
+  "description": "Los métodos son funciones que pertenecen a una clase. Cuando una función se declara dentro de una clase, automáticamente pasa a ser conocida como un método. Los métodos son fundamentales para la Programación Orientada a Objetos (POO), ya que permiten encapsular la lógica dentro de las clases y operar sobre los atributos de la misma. Este concepto está estrechamente relacionado con el principio de abstracción.",
+  "source": "@site/docs/03-aprendiento-larevel/02-POO/09-POO-metodos-PHP.md",
+  "sourceDirName": "03-aprendiento-larevel/02-POO",
+  "slug": "/aprendiento-larevel/POO/POO-metodos-PHP",
+  "permalink": "/jdocs/docs/aprendiento-larevel/POO/POO-metodos-PHP",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/03-aprendiento-larevel/02-POO/09-POO-metodos-PHP.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Constructor Property Promotion en PHP (PHP 8.0+)",
+    "permalink": "/jdocs/docs/aprendiento-larevel/POO/POO-constructores-PHP8"
+  }
+}

@@ -46,6 +46,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "aprendiento-larevel/POO/POO-metodos-PHP",
+              "path": "/jdocs/docs/aprendiento-larevel/POO/POO-metodos-PHP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "aprendiento-larevel/POO/POO-tipado-datos",
               "path": "/jdocs/docs/aprendiento-larevel/POO/POO-tipado-datos",
               "sidebar": "tutorialSidebar"

@@ -19,5 +19,9 @@
   "previous": {
     "title": "Tipado de Datos en PHP",
     "permalink": "/jdocs/docs/aprendiento-larevel/POO/POO-tipado-datos"
+  },
+  "next": {
+    "title": "Métodos en PHP",
+    "permalink": "/jdocs/docs/aprendiento-larevel/POO/POO-metodos-PHP"
   }
 }
