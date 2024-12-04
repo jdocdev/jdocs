@@ -19,5 +19,9 @@
   "previous": {
     "title": "Atributos y Funciones en PHP: Abstracción en Clases",
     "permalink": "/jdocs/docs/aprendiento-larevel/POO/POO-abstraccion"
+  },
+  "next": {
+    "title": "Tipado de Datos en PHP",
+    "permalink": "/jdocs/docs/aprendiento-larevel/POO/POO-tipado-datos"
   }
 }

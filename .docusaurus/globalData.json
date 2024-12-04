@@ -41,6 +41,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "aprendiento-larevel/POO/POO-tipado-datos",
+              "path": "/jdocs/docs/aprendiento-larevel/POO/POO-tipado-datos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "aprendiento-larevel/puesta-en-marcha",
               "path": "/jdocs/docs/aprendiento-larevel/puesta-en-marcha",
               "sidebar": "tutorialSidebar"
