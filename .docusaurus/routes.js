@@ -124,15 +124,15 @@ export default [
   },
   {
     path: '/jdocs/docs',
-    component: ComponentCreator('/jdocs/docs', '3b4'),
+    component: ComponentCreator('/jdocs/docs', 'adb'),
     routes: [
       {
         path: '/jdocs/docs',
-        component: ComponentCreator('/jdocs/docs', 'b77'),
+        component: ComponentCreator('/jdocs/docs', 'ac2'),
         routes: [
           {
             path: '/jdocs/docs',
-            component: ComponentCreator('/jdocs/docs', 'b61'),
+            component: ComponentCreator('/jdocs/docs', 'c2e'),
             routes: [
               {
                 path: '/jdocs/docs/aprendiento-larevel/POO/PHP-POO-Docker',
@@ -155,6 +155,12 @@ export default [
               {
                 path: '/jdocs/docs/aprendiento-larevel/POO/POO-constructores',
                 component: ComponentCreator('/jdocs/docs/aprendiento-larevel/POO/POO-constructores', '43e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/jdocs/docs/aprendiento-larevel/POO/POO-constructores-PHP8',
+                component: ComponentCreator('/jdocs/docs/aprendiento-larevel/POO/POO-constructores-PHP8', 'd3b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

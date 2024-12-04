@@ -177,7 +177,7 @@ El tipo mixed (PHP 8.0+) permite aceptar cualquier tipo de dato.
 
 **Documentado por:** [JuanDavid_Dev](https://www.youtube.com/@juandavid_dev)  
 **Rol:** Administrador  
-**Fecha:** 01/12/2024  
-**Última actualización:** 01/12/2024
+**Fecha:** 04/12/2024  
+**Última actualización:** 04/12/2024
 
 ---

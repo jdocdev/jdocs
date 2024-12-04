@@ -378,17 +378,17 @@
     },
     "content": "393be207"
   },
-  "/jdocs/docs-3b4": {
+  "/jdocs/docs-adb": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/jdocs/docs-b77": {
+  "/jdocs/docs-ac2": {
     "__comp": "a7bd4aaa",
     "__props": "c3bd3f78"
   },
-  "/jdocs/docs-b61": {
+  "/jdocs/docs-c2e": {
     "__comp": "a94703ab"
   },
   "/jdocs/docs/aprendiento-larevel/POO/PHP-POO-Docker-979": {
@@ -406,6 +406,10 @@
   "/jdocs/docs/aprendiento-larevel/POO/POO-constructores-43e": {
     "__comp": "17896441",
     "content": "db97a84a"
+  },
+  "/jdocs/docs/aprendiento-larevel/POO/POO-constructores-PHP8-d3b": {
+    "__comp": "17896441",
+    "content": "23651265"
   },
   "/jdocs/docs/aprendiento-larevel/POO/POO-instancias-objetos-4e0": {
     "__comp": "17896441",

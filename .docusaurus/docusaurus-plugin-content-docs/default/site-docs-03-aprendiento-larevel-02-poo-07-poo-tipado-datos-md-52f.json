@@ -1,0 +1,27 @@
+{
+  "id": "aprendiento-larevel/POO/POO-tipado-datos",
+  "title": "Tipado de Datos en PHP",
+  "description": "El tipado en PHP permite especificar el tipo de datos que se espera en variables, atributos, parámetros y valores de retorno. Esto ayuda a garantizar la consistencia en la estructura y el comportamiento del código, minimizando errores y mejorando la legibilidad y mantenimiento del mismo.",
+  "source": "@site/docs/03-aprendiento-larevel/02-POO/07- POO-tipado-datos.md",
+  "sourceDirName": "03-aprendiento-larevel/02-POO",
+  "slug": "/aprendiento-larevel/POO/POO-tipado-datos",
+  "permalink": "/jdocs/docs/aprendiento-larevel/POO/POO-tipado-datos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/03-aprendiento-larevel/02-POO/07- POO-tipado-datos.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Constructores en PHP",
+    "permalink": "/jdocs/docs/aprendiento-larevel/POO/POO-constructores"
+  },
+  "next": {
+    "title": "Constructor Property Promotion en PHP (PHP 8.0+)",
+    "permalink": "/jdocs/docs/aprendiento-larevel/POO/POO-constructores-PHP8"
+  }
+}

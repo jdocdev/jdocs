@@ -1,0 +1,23 @@
+{
+  "id": "aprendiento-larevel/POO/POO-constructores-PHP8",
+  "title": "Constructor Property Promotion en PHP (PHP 8.0+)",
+  "description": "PHP 8 introdujo una nueva característica que permite una forma más compacta y eficiente de declarar y asignar propiedades dentro del constructor de una clase, llamada Constructor Property Promotion. Esta nueva sintaxis reduce el código repetitivo y mejora la legibilidad, facilitando la creación de clases con múltiples atributos.",
+  "source": "@site/docs/03-aprendiento-larevel/02-POO/08-POO-constructores-PHP8.md",
+  "sourceDirName": "03-aprendiento-larevel/02-POO",
+  "slug": "/aprendiento-larevel/POO/POO-constructores-PHP8",
+  "permalink": "/jdocs/docs/aprendiento-larevel/POO/POO-constructores-PHP8",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/03-aprendiento-larevel/02-POO/08-POO-constructores-PHP8.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tipado de Datos en PHP",
+    "permalink": "/jdocs/docs/aprendiento-larevel/POO/POO-tipado-datos"
+  }
+}
