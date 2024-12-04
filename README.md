@@ -1,41 +1,49 @@
-# Website
+# Introducción 
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+¡Descubre el emocionante mundo de la programación, paso a paso, desde los fundamentos hasta temas avanzados!
 
-### Installation
+## ¿Qué encontrarás aquí?
 
-```
-$ yarn
-```
+Este sitio es un **recurso integral** diseñado para ayudarte a aprender programación desde cero. Aquí, comenzarás con los conceptos básicos y avanzarás gradualmente hacia temas más complejos. Todo está documentado de manera clara y estructurada para que puedas:
 
-### Local Development
+- Comprender los **conceptos fundamentales de programación**.
+- Aprender a resolver problemas de manera lógica y estructurada.
+- Dominar **JavaScript** y **Frameworks** populares en el desarrollo web.
+- Estar listo para abordar temas avanzados y proyectos del mundo real.
 
-```
-$ yarn start
-```
+## ¿Para quién es este sitio?
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+Este sitio es ideal para:
 
-### Build
+- **Principiantes** que desean aprender a programar desde cero.
+- Personas con **conocimientos básicos** que quieren reforzar fundamentos y mejorar habilidades.
+- **Estudiantes autodidactas** interesados en progresar a su propio ritmo.
 
-```
-$ yarn build
-```
+Si alguna vez pensaste que aprender a programar era difícil, este es el lugar para desmitificarlo.
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+## ¿Cómo comenzar?
 
-### Deployment
+1. **Empieza con los fundamentos:** Lee sobre qué es la programación, cómo funciona y por qué es tan importante en el mundo moderno.
+2. **Ponte manos a la obra:** Aprende a escribir tus primeras líneas de código con JavaScript y practica con ejemplos interactivos.
+3. **Explora más allá:** Una vez dominados los fundamentos, avanza a temas más desafiantes como estructuras de datos, algoritmos y desarrollo web.
 
-Using SSH:
+## ¿Por qué aprender a programar?
 
-```
-$ USE_SSH=true yarn deploy
-```
+- **Habilidad esencial:** La programación es una de las habilidades más demandadas en el mercado laboral actual.
+- **Creatividad y lógica:** Combina tu creatividad con la capacidad de resolver problemas y construir soluciones útiles.
+- **Flexibilidad y futuro:** Puedes aplicar la programación en diversas áreas como desarrollo de software, ciencia de datos, inteligencia artificial y más.
 
-Not using SSH:
+## Empecemos juntos
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+Explora, aprende y comparte el conocimiento. Este sitio es solo el comienzo de un viaje apasionante hacia el desarrollo de tus habilidades como programador.
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+¿Listo para empezar? ¡Vamos a empezar!
+
+---
+
+**Documentado por:** [JuanDavid_Dev](https://www.youtube.com/@juandavid_dev)   
+**Rol:** Administrador  
+**Fecha:** 25/11/2024  
+**Última actualización:** 25/11/2024
+
+---

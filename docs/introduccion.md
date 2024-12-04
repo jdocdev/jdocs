@@ -12,7 +12,7 @@ Este sitio es un **recurso integral** diseñado para ayudarte a aprender program
 
 - Comprender los **conceptos fundamentales de programación**.
 - Aprender a resolver problemas de manera lógica y estructurada.
-- Dominar **JavaScript**, uno de los lenguajes más populares en el desarrollo web.
+- Dominar **JavaScript** y **Frameworks** populares en el desarrollo web.
 - Estar listo para abordar temas avanzados y proyectos del mundo real.
 
 ## ¿Para quién es este sitio?
