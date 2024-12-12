@@ -75,5 +75,5 @@ typings/
 # FuseBox cache
 .fusebox/
 
-# Build
-#/build
+# Archivos que se crean por la compilación en local
+.docusaurus/

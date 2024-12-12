@@ -51,6 +51,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "aprendiento-larevel/POO/POO-modificiadores-acceso",
+              "path": "/jdocs/docs/aprendiento-larevel/POO/POO-modificiadores-acceso",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "aprendiento-larevel/POO/POO-tipado-datos",
               "path": "/jdocs/docs/aprendiento-larevel/POO/POO-tipado-datos",
               "sidebar": "tutorialSidebar"

@@ -19,5 +19,9 @@
   "previous": {
     "title": "Constructor Property Promotion en PHP (PHP 8.0+)",
     "permalink": "/jdocs/docs/aprendiento-larevel/POO/POO-constructores-PHP8"
+  },
+  "next": {
+    "title": "Modificadores de Acceso en PHP",
+    "permalink": "/jdocs/docs/aprendiento-larevel/POO/POO-modificiadores-acceso"
   }
 }
