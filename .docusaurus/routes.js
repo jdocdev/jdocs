@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/jdocs/__docusaurus/debug',
+    component: ComponentCreator('/jdocs/__docusaurus/debug', 'cb4'),
+    exact: true
+  },
+  {
+    path: '/jdocs/__docusaurus/debug/config',
+    component: ComponentCreator('/jdocs/__docusaurus/debug/config', '323'),
+    exact: true
+  },
+  {
+    path: '/jdocs/__docusaurus/debug/content',
+    component: ComponentCreator('/jdocs/__docusaurus/debug/content', 'c9c'),
+    exact: true
+  },
+  {
+    path: '/jdocs/__docusaurus/debug/globalData',
+    component: ComponentCreator('/jdocs/__docusaurus/debug/globalData', 'f0c'),
+    exact: true
+  },
+  {
+    path: '/jdocs/__docusaurus/debug/metadata',
+    component: ComponentCreator('/jdocs/__docusaurus/debug/metadata', 'e8d'),
+    exact: true
+  },
+  {
+    path: '/jdocs/__docusaurus/debug/registry',
+    component: ComponentCreator('/jdocs/__docusaurus/debug/registry', '5ed'),
+    exact: true
+  },
+  {
+    path: '/jdocs/__docusaurus/debug/routes',
+    component: ComponentCreator('/jdocs/__docusaurus/debug/routes', '37b'),
+    exact: true
+  },
+  {
     path: '/jdocs/blog',
     component: ComponentCreator('/jdocs/blog', '7aa'),
     exact: true
@@ -124,15 +159,15 @@ export default [
   },
   {
     path: '/jdocs/docs',
-    component: ComponentCreator('/jdocs/docs', '748'),
+    component: ComponentCreator('/jdocs/docs', '130'),
     routes: [
       {
         path: '/jdocs/docs',
-        component: ComponentCreator('/jdocs/docs', 'bd6'),
+        component: ComponentCreator('/jdocs/docs', 'cd3'),
         routes: [
           {
             path: '/jdocs/docs',
-            component: ComponentCreator('/jdocs/docs', '042'),
+            component: ComponentCreator('/jdocs/docs', 'aa1'),
             routes: [
               {
                 path: '/jdocs/docs/aprendiento-larevel/POO/PHP-POO-Docker',
@@ -161,6 +196,12 @@ export default [
               {
                 path: '/jdocs/docs/aprendiento-larevel/POO/POO-constructores-PHP8',
                 component: ComponentCreator('/jdocs/docs/aprendiento-larevel/POO/POO-constructores-PHP8', 'd3b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/jdocs/docs/aprendiento-larevel/POO/POO-getters-setters',
+                component: ComponentCreator('/jdocs/docs/aprendiento-larevel/POO/POO-getters-setters', '2db'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

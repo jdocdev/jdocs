@@ -4,32 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'voluptatem accusantium doloremque',
-    Png: require('@site/static/img/enConstruccion.png').default,
+    title: 'Empieza con los fundamentos',
+    Png: require('@site/static/img/Empieza.png').default,
     description: (
       <>
-        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+        Todo gran proyecto comienza con una base sólida. Aprende qué es la programación, cómo funciona y por qué es clave en el mundo moderno. Con ejemplos claros y prácticos, darás tus primeros pasos para dominar los conceptos básicos.
       </>
     ),
   },
   {
-    title: 'voluptatem accusantium doloremque',
-    Png: require('@site/static/img/enConstruccion.png').default,
+    title: 'Crea y resuelve problemas',
+    Png: require('@site/static/img/Crea.png').default,
     description: (
       <>
-        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+        La programación te enseña a pensar de manera lógica y estructurada. Aprende a resolver problemas reales, escribe tus primeras líneas de código, practica y disfruta con ejercicios interactivos que refuercen tu aprendizaje.
       </>
     ),
   },
   {
-    title: 'voluptatem accusantium doloremque',
-    Png: require('@site/static/img/enConstruccion.png').default,
+    title: 'Avanza hacia lo profesional',
+    Png: require('@site/static/img/Avanza.png').default,
     description: (
       <>
-        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+        Una vez que domines los fundamentos, explora temas avanzados como algoritmos, estructuras de datos y frameworks populares. Este sitio te guiará para desarrollar proyectos prácticos y enfrentarte al mundo real con confianza.
       </>
     ),
-  },
+  },  
 ];
 
 function Feature({Png, title, description}) {

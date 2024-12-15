@@ -32,7 +32,7 @@ function HomepageHeader() {
                 <p>
                     Un espacio diseñado para principiantes que desean sumergirse
                     en el mundo de la programación. Aprende los fundamentos
-                    básicos, explora conceptos esenciales y avanza gradualmente
+                    básicos, explora conceptos esenciales y avanzar gradualmente
                     hacia temas más complejos. Tendremos un enfoque claro y
                     práctico, este sitio es tu guía completa para convertirte en
                     un desarrollador competente.

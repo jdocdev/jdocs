@@ -67,7 +67,7 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "JuanDavid_Dev",
+      "title": "jdocs",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/jdocdev_logo.png"

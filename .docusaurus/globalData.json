@@ -36,6 +36,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "aprendiento-larevel/POO/POO-getters-setters",
+              "path": "/jdocs/docs/aprendiento-larevel/POO/POO-getters-setters",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "aprendiento-larevel/POO/POO-instancias-objetos",
               "path": "/jdocs/docs/aprendiento-larevel/POO/POO-instancias-objetos",
               "sidebar": "tutorialSidebar"
