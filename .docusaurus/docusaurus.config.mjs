@@ -131,7 +131,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2024 JuanDavid_Dev."
+      "copyright": "Copyright © 2025 JuanDavid_Dev."
     },
     "prism": {
       "theme": {

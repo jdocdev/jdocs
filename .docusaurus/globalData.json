@@ -26,6 +26,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "aprendiento-larevel/POO/POO-clases-abstractas",
+              "path": "/jdocs/docs/aprendiento-larevel/POO/POO-clases-abstractas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "aprendiento-larevel/POO/POO-constructores",
               "path": "/jdocs/docs/aprendiento-larevel/POO/POO-constructores",
               "sidebar": "tutorialSidebar"
@@ -38,6 +43,11 @@
             {
               "id": "aprendiento-larevel/POO/POO-getters-setters",
               "path": "/jdocs/docs/aprendiento-larevel/POO/POO-getters-setters",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "aprendiento-larevel/POO/POO-herencia",
+              "path": "/jdocs/docs/aprendiento-larevel/POO/POO-herencia",
               "sidebar": "tutorialSidebar"
             },
             {

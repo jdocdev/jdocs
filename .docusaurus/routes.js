@@ -159,15 +159,15 @@ export default [
   },
   {
     path: '/jdocs/docs',
-    component: ComponentCreator('/jdocs/docs', '130'),
+    component: ComponentCreator('/jdocs/docs', '529'),
     routes: [
       {
         path: '/jdocs/docs',
-        component: ComponentCreator('/jdocs/docs', 'cd3'),
+        component: ComponentCreator('/jdocs/docs', '4af'),
         routes: [
           {
             path: '/jdocs/docs',
-            component: ComponentCreator('/jdocs/docs', 'aa1'),
+            component: ComponentCreator('/jdocs/docs', 'db9'),
             routes: [
               {
                 path: '/jdocs/docs/aprendiento-larevel/POO/PHP-POO-Docker',
@@ -188,6 +188,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/jdocs/docs/aprendiento-larevel/POO/POO-clases-abstractas',
+                component: ComponentCreator('/jdocs/docs/aprendiento-larevel/POO/POO-clases-abstractas', '78f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/jdocs/docs/aprendiento-larevel/POO/POO-constructores',
                 component: ComponentCreator('/jdocs/docs/aprendiento-larevel/POO/POO-constructores', '43e'),
                 exact: true,
@@ -202,6 +208,12 @@ export default [
               {
                 path: '/jdocs/docs/aprendiento-larevel/POO/POO-getters-setters',
                 component: ComponentCreator('/jdocs/docs/aprendiento-larevel/POO/POO-getters-setters', '2db'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/jdocs/docs/aprendiento-larevel/POO/POO-herencia',
+                component: ComponentCreator('/jdocs/docs/aprendiento-larevel/POO/POO-herencia', 'e6d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

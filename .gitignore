@@ -77,3 +77,4 @@ typings/
 
 # Archivos que se crean por la compilación en local
 .docusaurus/
+.docusaurus
