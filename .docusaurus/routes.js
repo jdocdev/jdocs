@@ -159,15 +159,15 @@ export default [
   },
   {
     path: '/jdocs/docs',
-    component: ComponentCreator('/jdocs/docs', '529'),
+    component: ComponentCreator('/jdocs/docs', '18a'),
     routes: [
       {
         path: '/jdocs/docs',
-        component: ComponentCreator('/jdocs/docs', '4af'),
+        component: ComponentCreator('/jdocs/docs', 'c3d'),
         routes: [
           {
             path: '/jdocs/docs',
-            component: ComponentCreator('/jdocs/docs', 'db9'),
+            component: ComponentCreator('/jdocs/docs', '952'),
             routes: [
               {
                 path: '/jdocs/docs/aprendiento-larevel/POO/PHP-POO-Docker',
@@ -190,6 +190,12 @@ export default [
               {
                 path: '/jdocs/docs/aprendiento-larevel/POO/POO-clases-abstractas',
                 component: ComponentCreator('/jdocs/docs/aprendiento-larevel/POO/POO-clases-abstractas', '78f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/jdocs/docs/aprendiento-larevel/POO/POO-comunicar-clases',
+                component: ComponentCreator('/jdocs/docs/aprendiento-larevel/POO/POO-comunicar-clases', 'af7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -226,6 +232,12 @@ export default [
               {
                 path: '/jdocs/docs/aprendiento-larevel/POO/POO-introduccion',
                 component: ComponentCreator('/jdocs/docs/aprendiento-larevel/POO/POO-introduccion', '8d2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/jdocs/docs/aprendiento-larevel/POO/POO-metodos-estaticos',
+                component: ComponentCreator('/jdocs/docs/aprendiento-larevel/POO/POO-metodos-estaticos', 'cdb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

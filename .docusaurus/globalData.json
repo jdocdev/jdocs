@@ -31,6 +31,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "aprendiento-larevel/POO/POO-comunicar-clases",
+              "path": "/jdocs/docs/aprendiento-larevel/POO/POO-comunicar-clases",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "aprendiento-larevel/POO/POO-constructores",
               "path": "/jdocs/docs/aprendiento-larevel/POO/POO-constructores",
               "sidebar": "tutorialSidebar"
@@ -58,6 +63,11 @@
             {
               "id": "aprendiento-larevel/POO/POO-introduccion",
               "path": "/jdocs/docs/aprendiento-larevel/POO/POO-introduccion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "aprendiento-larevel/POO/POO-metodos-estaticos",
+              "path": "/jdocs/docs/aprendiento-larevel/POO/POO-metodos-estaticos",
               "sidebar": "tutorialSidebar"
             },
             {

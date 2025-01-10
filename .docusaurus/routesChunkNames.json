@@ -421,17 +421,17 @@
     },
     "content": "content---jdocs-markdown-page-393-fa3"
   },
-  "/jdocs/docs-529": {
+  "/jdocs/docs-18a": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---jdocs-docsaba-261"
     }
   },
-  "/jdocs/docs-4af": {
+  "/jdocs/docs-c3d": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---jdocs-docsc-3-b-2ae"
   },
-  "/jdocs/docs-db9": {
+  "/jdocs/docs-952": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/jdocs/docs/aprendiento-larevel/POO/PHP-POO-Docker-979": {
@@ -449,6 +449,10 @@
   "/jdocs/docs/aprendiento-larevel/POO/POO-clases-abstractas-78f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---jdocs-docs-aprendiento-larevel-poo-poo-clases-abstractas-48-f-9ac"
+  },
+  "/jdocs/docs/aprendiento-larevel/POO/POO-comunicar-clases-af7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---jdocs-docs-aprendiento-larevel-poo-poo-comunicar-clasesd-2-c-873"
   },
   "/jdocs/docs/aprendiento-larevel/POO/POO-constructores-43e": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -473,6 +477,10 @@
   "/jdocs/docs/aprendiento-larevel/POO/POO-introduccion-8d2": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---jdocs-docs-aprendiento-larevel-poo-poo-introduccioned-3-9ed"
+  },
+  "/jdocs/docs/aprendiento-larevel/POO/POO-metodos-estaticos-cdb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---jdocs-docs-aprendiento-larevel-poo-poo-metodos-estaticos-331-3df"
   },
   "/jdocs/docs/aprendiento-larevel/POO/POO-metodos-PHP-6dd": {
     "__comp": "__comp---theme-doc-item-178-a40",
