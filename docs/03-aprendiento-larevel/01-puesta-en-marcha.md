@@ -76,10 +76,107 @@ Esta guía te ayudará a configurar un entorno de desarrollo para Laravel utiliz
 
 1. Crear la aplicación en la ruta deseada:
 
-    Desde una terminal ejecuta el siguiente comando para crear una nueva aplicación Laravel:
+    Desde una terminal ejecuta el siguiente comando para crear una nueva aplicación Laravel reemplazando `myapp` por el nombre de tu proyecto:
     ```bash
     curl -s https://laravel.build/myapp | bash
     ```
+
+## 2.1 Personalización de Nombres de Contenedores
+
+Ahora que tu proyecto se ha creado, es recomendable personalizar los nombres de los contenedores de Docker para evitar conflictos con otros proyectos en el mismo equipo. Por defecto, Laravel Sail utiliza nombres genéricos para los servicios como nginx, mysql, redis, entre otros. Si trabajas con múltiples proyectos, esto podría generar conflictos al intentar levantar varios entornos al mismo tiempo y dificultar la identificación visual de los contenedores.
+
+Para evitar estos problemas y mantener una gestión ordenada de tus servicios, puedes personalizar los nombres de los contenedores siguiendo estos pasos:
+
+### 2.1.1 Configuración del Archivo .env
+
+Añade la siguiente variable en tu archivo `.env`:
+
+```env
+PROJECT_NAME=jdocs
+```
+
+Esta variable se utilizará como prefijo para nombrar todos los contenedores de servicios.
+
+### 2.1.2 Modificación del docker-compose.yml
+
+En tu archivo `docker-compose.yml`, añade el atributo `container_name` al inicio de cada servicio utilizando la variable de entorno `PROJECT_NAME` y al final de la configuración de cada servicio agrega el enlace al archivo `.env`.
+Aquí están los cambios necesarios para cada servicio:
+
+```yaml
+services:
+    laravel.test:
+        container_name: nginx-${PROJECT_NAME}
+        # ... resto de la configuración
+        # ... resto de la configuración
+        env_file:
+            - .env
+
+    mysql:
+        container_name: mysql-${PROJECT_NAME}
+        # ... resto de la configuración
+        # ... resto de la configuración
+        env_file:
+            - .env
+
+    redis:
+        container_name: redis-${PROJECT_NAME}
+        # ... resto de la configuración
+        # ... resto de la configuración
+        env_file:
+            - .env
+
+    meilisearch:
+        container_name: meilisearch-${PROJECT_NAME}
+        # ... resto de la configuración
+        # ... resto de la configuración
+        env_file:
+            - .env
+
+    mailpit:
+        container_name: mailpit-${PROJECT_NAME}
+        # ... resto de la configuración
+        # ... resto de la configuración
+        env_file:
+            - .env
+
+    selenium:
+        container_name: selenium-${PROJECT_NAME}
+        # ... resto de la configuración
+        # ... resto de la configuración
+        env_file:
+            - .env
+```
+
+### 2.1.3 Resultado Final
+
+Con esta configuración, tus contenedores tendrán nombres como:
+- `nginx-jdocs`
+- `mysql-jdocs`
+- `redis-jdocs`
+- `meilisearch-jdocs`
+- `mailpit-jdocs`
+- `selenium-jdocs`
+
+### 2.1.4 Notas Importantes
+
+1. **Nombres Únicos**: Asegúrate de que el `PROJECT_NAME` sea único si tienes múltiples proyectos Laravel corriendo simultáneamente.
+
+2. **Convención de Nombres**: Se recomienda usar nombres en minúsculas y sin espacios para evitar problemas de compatibilidad.
+
+3. **Variables de Entorno**: Asegúrate de que el archivo `.env` esté correctamente configurado antes de iniciar los contenedores.
+
+4. **Reinicio Necesario**: Si cambias el `PROJECT_NAME`, necesitarás reiniciar los contenedores:
+   ```bash
+   sail down
+   sail up -d
+   ```
+
+5. **Verificación de Nombres**: Puedes verificar los nombres de los contenedores con:
+   ```bash
+   docker ps
+   ``` 
+
+## 3. Iniciar el entorno con Docker
 
 2. Iniciar el entorno con Sail:
 
@@ -95,7 +192,7 @@ Esta guía te ayudará a configurar un entorno de desarrollo para Laravel utiliz
     ./vendor/bin/sail down
     ```
 
-## 3. Migraciones de Base de Datos
+## 4. Migraciones de Base de Datos
 
 Resulta que en versiones recientes es posible recibir un **error relacionado con SQL** al arrancar el proyecto por primera vez, esto es porque laravel en sus versiones recientes requiere de una migración de tablas para arrancar.
 
@@ -127,7 +224,7 @@ Resulta que en versiones recientes es posible recibir un **error relacionado con
     ./vendor/bin/sail artisan migrate:fresh
     ```
 
-## 4. Configurar un Alias para Sail
+## 5. Configurar un Alias para Sail
 
 Configurar un alias para `./vendor/bin/sail` simplifica su uso en proyectos Laravel utilizando Docker. Este alias permite añadir subcomandos al final sin necesidad de escribir toda la ruta cada vez.
 
@@ -152,13 +249,18 @@ Configurar un alias para `./vendor/bin/sail` simplifica su uso en proyectos Lara
     source ~/.bashrc
     ```
 
-## 4.1 Cómo Usar el Alias
+## 5.1 Cómo Usar el Alias
 
 Ahora puedes usar sail como si fuera el comando completo ./vendor/bin/sail, añadiendo cualquier subcomando al final. Por ejemplo:
 
 - Levantar los contenedores:
     ```bash
     sail up 
+    ```
+
+- Levantar los contenedores en modo desarrollo:
+    ```bash
+    sail up -d
     ```
 
 - Detener los contenedores:
@@ -176,11 +278,11 @@ Ahora puedes usar sail como si fuera el comando completo ./vendor/bin/sail, aña
     sail composer install
     ```
 
-## 5. Comandos para Consultar y Gestionar el Entorno en Sail
+## 6. Comandos para Consultar y Gestionar el Entorno en Sail
 
 Laravel Sail simplifica la interacción con los contenedores Docker. Aquí se describen algunos comandos esenciales para verificar las versiones de herramientas y gestionar paquetes dentro del contenedor.
 
-### Verificar Versiones de Herramientas
+### 6.1 Verificar Versiones de Herramientas
 
 Para verificar las versiones dentro del **contenedor de docker** para PHP, Node.js, npm y otros usa:
 
@@ -210,7 +312,7 @@ Para verificar las versiones dentro del **contenedor de docker** para PHP, Node.
 
     SELECT VERSION();
 
-### Instalación de Paquetes
+### 6.2 Instalación de Paquetes
 
 Puedes instalar paquetes directamente dentro del **contenedor de docker**, por ejemplo para PHP, Node.js, y Composer.
 
@@ -228,7 +330,7 @@ Puedes instalar paquetes directamente dentro del **contenedor de docker**, por e
     sail npm install axios
     ```
 
-### Nota Importante
+### 6.3 Nota Importante
 
 - Prefijo Sail: Cualquier comando que normalmente ejecutarías de forma local (como php -v, node -v, etc.), debe tener el prefijo sail para ejecutarse dentro del contenedor.
 
@@ -244,7 +346,7 @@ Puedes instalar paquetes directamente dentro del **contenedor de docker**, por e
 
 **Documentado por:** [JuanDavid_Dev](https://www.youtube.com/@juandavid_dev)  
 **Rol:** Administrador  
-**Fecha:** 28/11/2024  
-**Última actualización:** 28/11/2024
+**Fecha:** 10/01/2025  
+**Última actualización:** 10/01/2025
 
 ---
